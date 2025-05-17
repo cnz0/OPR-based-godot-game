@@ -1,0 +1,433 @@
+Units:
+{"id": "OH_Og3K-F", "cost": 55, "name": "Champion of Plague", "size": 1, "sync": {"unitId": "7NfheZg", "syncAutomatic": true, "parentArmyBookId": "vJuokTQpJWj3_MrJ"}, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "ArjSyO5IUH9s", "name": "Putrid", "label": "Putrid"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "zsXPFW_r", "name": "Plague Hammer", "type": "ArmyBookWeapon", "count": 1, "attacks": 1, "weaponId": "QfG9sehC", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Plague Hammer (A1, Blast(3), Poison)", "originalCount": 1}, {"id": "dcgz1", "name": "Sword", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "eUnQjGsa", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Sword (A1, Poison)", "originalCount": 1}], "upgrades": ["78g-I"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "_OxfOEtOE", "cost": 15, "name": "Plague Warrior", "size": 1, "sync": {"unitId": "atz33g2", "syncAutomatic": true, "parentArmyBookId": "vJuokTQpJWj3_MrJ"}, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "ArjSyO5IUH9s", "name": "Putrid", "label": "Putrid"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "rOZPAMuF", "name": "Hand Weapon", "type": "ArmyBookWeapon", "attacks": 1, "weaponId": "rOZPAMuF", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Hand Weapon (A1, Poison)", "count": 1, "originalCount": 1}], "upgrades": ["D1", "E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "lUNJcJdiv", "cost": 20, "name": "Plague Fury", "size": 1, "sync": {"unitId": "1d1ydfq", "syncAutomatic": true, "parentArmyBookId": "vJuokTQpJWj3_MrJ"}, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "ArjSyO5IUH9s", "name": "Putrid", "label": "Putrid"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "Bs7sQYrE", "name": "Armblade", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "zY40GLL5", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Armblade (A2, AP(1), Poison)", "originalCount": 1}], "upgrades": ["FZSgS"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "Vl6-oaKYS", "cost": 25, "name": "Plague Swarm", "size": 1, "sync": {"unitId": "beTfybt", "syncAutomatic": true, "parentArmyBookId": "vJuokTQpJWj3_MrJ"}, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "ArjSyO5IUH9s", "name": "Putrid", "label": "Putrid"}, {"id": "JSKVyurtWIyW", "name": "Strider", "additional": false, "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 6, "quality": 6, "weapons": [{"id": "8SnISZwL", "name": "Swarm Attack", "type": "ArmyBookWeapon", "range": 0, "attacks": 3, "weaponId": "47t3-yyc", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Swarm Attack (A3, Poison)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "IPbePewVl", "cost": 70, "name": "Plague Fly Rider", "size": 1, "sync": {"unitId": "3d71gbH", "syncAutomatic": true, "parentArmyBookId": "vJuokTQpJWj3_MrJ"}, "bases": {"round": "60", "square": "50"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "ArjSyO5IUH9s", "name": "Putrid", "label": "Putrid"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 4, "weapons": [{"id": "rOZPAMuF", "name": "Hand Weapon", "type": "ArmyBookWeapon", "attacks": 1, "weaponId": "rOZPAMuF", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Hand Weapon (A1, Poison)", "count": 1, "originalCount": 1}, {"id": "EwHDXpxL", "name": "Stinger", "type": "ArmyBookWeapon", "attacks": 3, "weaponId": "EwHDXpxL", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Stinger (A3, AP(1))", "count": 1, "originalCount": 1}], "upgrades": ["D1", "F1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plague Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 1,
+      "weaponId": "-L0mo2Fo",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plague Spear (A1, AP(2), Deadly(3), Poison)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 15
+    },
+    "gains": {
+      "id": null,
+      "name": "Plague Sword",
+      "type": "ArmyBookWeapon",
+      "count": 2,
+      "attacks": 2,
+      "weaponId": "zsXPFW_r",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison"
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "2x Plague Sword (A2, Poison, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 20
+    },
+    "gains": {
+      "id": null,
+      "name": "Plague Sling",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 4,
+      "weaponId": "dR7aPSjZ",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plague Sling (12\", A4, Poison)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Plague Gauntlet",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "IjejVbbB",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plague Gauntlet (A2, AP(1), Poison)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 10
+    },
+    "gains": {
+      "id": "ByZPEb5StaKh",
+      "name": "Symbol of Plague",
+      "type": "ArmyBookRule",
+      "rating": 1,
+      "label": "Symbol of Plague(1)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 15
+    },
+    "gains": {
+      "id": "PQQpM60yMEQI",
+      "name": "Blessing of Plague",
+      "type": "ArmyBookRule",
+      "label": "Blessing of Plague",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 20
+    },
+    "gains": {
+      "id": "47CAqf7ySlfc",
+      "name": "Caster",
+      "type": "ArmyBookRule",
+      "modify": true,
+      "rating": 2,
+      "label": "Caster(2)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OH_Og3K-F",
+      "cost": 55
+    },
+    "gains": {
+      "name": "Throne of Plague",
+      "type": "ArmyBookItem",
+      "bases": {
+        "round": "105x70",
+        "square": "100x50"
+      },
+      "label": "Throne of Plague (Claws (A3, Poison), Tough(3))",
+      "content": [
+        {
+          "name": "Claws",
+          "type": "ArmyBookWeapon",
+          "count": 1,
+          "range": 0,
+          "attacks": 3,
+          "weaponId": "oiynjN5T",
+          "specialRules": [
+            {
+              "id": "Naqc5mga9Uha",
+              "name": "Poison",
+              "type": "ArmyBookRule"
+            }
+          ],
+          "label": "Claws (A3, Poison)"
+        },
+        {
+          "id": "a0YtInGiUDd6",
+          "name": "Tough",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lUNJcJdiv",
+      "cost": 5
+    },
+    "gains": {
+      "id": "zY40GLL5",
+      "name": "Rending Claws",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 2,
+      "weaponId": "Bs7sQYrE",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison"
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Rending Claws (A2, Poison, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 5
+    },
+    "gains": {
+      "id": "qrG_DXJez5Dg",
+      "name": "Musician",
+      "type": "ArmyBookRule",
+      "label": "Musician",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 5
+    },
+    "gains": {
+      "id": "8HWdOwMYcI0p",
+      "name": "Sergeant",
+      "type": "ArmyBookRule",
+      "label": "Sergeant",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 10
+    },
+    "gains": {
+      "id": "ywXKQKPOLjTF",
+      "name": "Banner",
+      "type": "ArmyBookRule",
+      "label": "Banner",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 5
+    },
+    "gains": {
+      "id": "ltqkmldU",
+      "name": "Halberd",
+      "type": "ArmyBookWeapon",
+      "attacks": 1,
+      "weaponId": "ltqkmldU",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Halberd (A1, Poison, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 5
+    },
+    "gains": {
+      "id": "WNbhGxVY",
+      "name": "Great Weapon",
+      "type": "ArmyBookWeapon",
+      "attacks": 1,
+      "weaponId": "WNbhGxVY",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Great Weapon (A1, AP(2), Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Qzt9xVWg",
+      "name": "Dual Hand Weapons",
+      "type": "ArmyBookWeapon",
+      "attacks": 2,
+      "weaponId": "Qzt9xVWg",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Dual Hand Weapons (A2, Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 5
+    },
+    "gains": {
+      "id": "plH615b8",
+      "name": "Spear",
+      "type": "ArmyBookWeapon",
+      "attacks": 1,
+      "weaponId": "plH615b8",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "c45Fw0D2oGOk",
+          "name": "Counter",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Spear (A1, Counter, Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "_OxfOEtOE",
+      "cost": 25
+    },
+    "gains": {
+      "id": "fkBhKhTy7Ntf",
+      "name": "Banner of Plague",
+      "type": "ArmyBookRule",
+      "label": "Banner of Plague",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "IPbePewVl",
+      "cost": 15
+    },
+    "gains": {
+      "id": "taCrkAcs",
+      "name": "Poisoned Spit",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 3,
+      "weaponId": "taCrkAcs",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Poisoned Spit (12\", A3, Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "IPbePewVl",
+      "cost": 5
+    },
+    "gains": {
+      "id": "WjqEn5Yp",
+      "name": "Poisoned Stinger",
+      "type": "ArmyBookWeapon",
+      "attacks": 3,
+      "weaponId": "WjqEn5Yp",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Poisoned Stinger (A3, AP(1), Poison)",
+      "count": 1
+    }
+  }
+]

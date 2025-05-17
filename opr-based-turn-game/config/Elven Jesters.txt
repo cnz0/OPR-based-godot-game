@@ -1,0 +1,479 @@
+Units:
+{"id": "Z8Cf2Y3", "key": "ready-eel-veteran", "cost": 85, "name": "Master Jester", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "0VARGl65A_Dy", "name": "Dodge", "additional": false, "label": "Dodge"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "additional": false, "label": "Fast"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "additional": false, "label": "Furious"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "additional": false, "label": "Hero"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "additional": false, "label": "Stealth"}, {"id": "JSKVyurtWIyW", "name": "Strider", "additional": false, "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "additional": false, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 3, "weapons": [{"id": "llqh3cud", "name": "Master Shard Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 2, "weaponId": "riBYHwrT", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Master Shard Pistol (12\", A2, Rending)", "originalCount": 1}, {"id": "ewD4pcNm", "name": "CCW", "type": "ArmyBookWeapon", "count": 2, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "2x CCW (A2)", "originalCount": 2}], "upgrades": ["F-qtY", "G7bVZ"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "Poir2bw", "cost": 55, "name": "Fool Champion", "size": 1, "bases": {"round": "25", "square": "30"}, "items": [], "rules": [{"id": "0VARGl65A_Dy", "name": "Dodge", "label": "Dodge"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "llqh3cud", "name": "Master Shard Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 2, "weaponId": "riBYHwrT", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Master Shard Pistol (12\", A2, Rending)", "originalCount": 1}, {"id": "ewD4pcNm", "name": "CCW", "type": "ArmyBookWeapon", "count": 2, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "2x CCW (A2)", "originalCount": 2}], "upgrades": ["G7bVZ"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "EgHVmFc", "cost": 20, "name": "Fool", "size": 1, "bases": {"round": "25", "square": "50x25"}, "items": [], "rules": [{"id": "0VARGl65A_Dy", "name": "Dodge", "label": "Dodge"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "llqh3cud", "name": "Shard Pistol", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "llqh3cud", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Shard Pistol (12\", A1, Rending)", "count": 1, "originalCount": 1}, {"id": "ewD4pcNm", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "d4Z91Se", "cost": 30, "name": "Joker", "size": 1, "bases": {"round": "25", "square": "50x25"}, "items": [], "rules": [{"id": "0VARGl65A_Dy", "name": "Dodge", "label": "Dodge"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}], "valid": true, "defense": 5, "quality": 3, "weapons": [{"id": "Hh8M109Y", "name": "Exploding Bola", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "Hh8M109Y", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "9042COVrLCsI", "name": "Limited", "label": "Limited"}], "label": "Exploding Bola (12\", A1, Blast(3), Limited)", "count": 1, "originalCount": 1}, {"id": "ewD4pcNm", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "CPnUv7L", "cost": 35, "name": "Jester", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "0VARGl65A_Dy", "name": "Dodge", "label": "Dodge"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 3, "weapons": [{"id": "llqh3cud", "name": "Shard Pistol", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "llqh3cud", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Shard Pistol (12\", A1, Rending)", "count": 1, "originalCount": 1}, {"id": "_lbiN", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": ["D1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "A_o3aHw", "cost": 45, "name": "Prankster", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "0VARGl65A_Dy", "name": "Dodge", "label": "Dodge"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "8KujvrTG8k9p", "name": "Regeneration", "label": "Regeneration"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 3, "weapons": [{"id": "YETiQE9z", "name": "Energy Glaive", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "YETiQE9z", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "umbiz4tnEyF8", "name": "Lance", "label": "Lance"}], "label": "Energy Glaive (A2, AP(1), Lance)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "CPnUv7L",
+      "cost": 5
+    },
+    "gains": {
+      "id": "9Z3h-8Rv",
+      "name": "Neuron Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "9Z3h-8Rv",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Neuron Pistol (12\", A2, Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CPnUv7L",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Fusion Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 1,
+      "weaponId": "ffmWT-Hb",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Pistol (6\", A1, AP(4), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CPnUv7L",
+      "cost": 15
+    },
+    "gains": {
+      "id": "D6IBKUaB",
+      "name": "Deathly Caress",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "D6IBKUaB",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Deathly Caress (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CPnUv7L",
+      "cost": 20
+    },
+    "gains": {
+      "id": "-H0xyKqq",
+      "name": "Deathly Embrace",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "-H0xyKqq",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Deathly Embrace (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CPnUv7L",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Deathly Touch",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "is7l1LhM",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Deathly Touch (A1, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CPnUv7L",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Deathly Kiss",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "T9wVGq1k",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Deathly Kiss (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 5
+    },
+    "gains": {
+      "id": "ffmWT-Hb",
+      "name": "Fusion Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 6,
+      "attacks": 1,
+      "weaponId": "ffmWT-Hb",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Pistol (6\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Hallucination-GL",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "mIjnwNf6",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Hallucination-GL (18\", A1, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Master Neuron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": "3",
+      "weaponId": "HhuR8j8W",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Master Neuron Pistol (12\", A3, Poison)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 25
+    },
+    "gains": {
+      "id": "z5DEasHe",
+      "name": "Shriek Cannon",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "z5DEasHe",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Shriek Cannon (24\", A2, Poison, Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 15
+    },
+    "gains": {
+      "id": "D6IBKUaB",
+      "name": "Deathly Caress",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "D6IBKUaB",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Deathly Caress (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 20
+    },
+    "gains": {
+      "id": "-H0xyKqq",
+      "name": "Deathly Embrace",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "-H0xyKqq",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Deathly Embrace (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Deathly Touch",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "is7l1LhM",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Deathly Touch (A1, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Deathly Kiss",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "T9wVGq1k",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Deathly Kiss (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Stage Master",
+      "type": "ArmyBookItem",
+      "label": "Stage Master (Graceful Brutality)",
+      "content": [
+        {
+          "id": "BdhbxFS_HipQ",
+          "name": "Graceful Brutality",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Troupe Lord",
+      "type": "ArmyBookItem",
+      "label": "Troupe Lord (Apex Killers)",
+      "content": [
+        {
+          "id": "4fNG4tTr_IsS",
+          "name": "Apex Killers",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Jester Seer",
+      "type": "ArmyBookItem",
+      "label": "Jester Seer (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Solitaire",
+      "type": "ArmyBookItem",
+      "label": "Solitaire (Ambush, Regeneration, Takedown)",
+      "content": [
+        {
+          "id": "6mJw5IdqSqNC",
+          "name": "Ambush",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "8KujvrTG8k9p",
+          "name": "Regeneration",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "eyMkgYDVrP7C",
+          "name": "Takedown",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Z8Cf2Y3",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Master Jester Seer",
+      "type": "ArmyBookItem",
+      "label": "Master Jester Seer (Caster(3))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 3
+        }
+      ],
+      "count": 1
+    }
+  }
+]

@@ -1,0 +1,233 @@
+Unit Name: Veteran Blood Master Brother
+Count: 1
+Name: Veteran Blood Master Brother
+Cost: 65
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- Hero
+- Tough(3)
+- War Veteran
+- Furious
+
+Weapons:
+- Flamer Pistol (6", A1, Blast(3), Reliable)
+- CCW (A2)
+
+-------------------
+Unit Name: Blood Master Brother
+Count: 0
+Name: Blood Master Brother
+Cost: 60
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- Hero
+- Tough(3)
+- Furious
+
+Weapons:
+- Flamer Pistol (6", A1, Blast(3), Reliable)
+- CCW (A2)
+
+-------------------
+Unit Name: Blood Elite Pathfinder
+Count: 0
+Name: Blood Elite Pathfinder
+Cost: 50
+Defense: 4
+Quality: 4
+Rules:
+- Fearless
+- Hero
+- Strider
+- Tough(3)
+- Furious
+
+Weapons:
+- Flamer Pistol (6", A1, Blast(3), Reliable)
+- CCW (A2)
+
+-------------------
+Unit Name: Blood Pathfinder
+Count: 0
+Name: Blood Pathfinder
+Cost: 25
+Defense: 4
+Quality: 4
+Rules:
+- Fearless
+- Strider
+- Furious
+
+Weapons:
+- Heavy Pistol (12", A1, AP(1))
+- CCW (A2)
+
+-------------------
+Unit Name: Blood Battle Brother
+Count: 0
+Name: Blood Battle Brother
+Cost: 30
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- Furious
+
+Weapons:
+- Heavy Rifle (24", A1, AP(1))
+- CCW (A1)
+
+-------------------
+Unit Name: Blood Assault Brother
+Count: 0
+Name: Blood Assault Brother
+Cost: 35
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- Furious
+
+Weapons:
+- Heavy Pistol (12", A1, AP(1))
+- Heavy CCW (A2, AP(1))
+
+-------------------
+Unit Name: Blood Death Brother
+Count: 0
+Name: Blood Death Brother
+Cost: 35
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- Furious
+- Regeneration
+
+Weapons:
+- Heavy Rifle (24", A1, AP(1))
+- CCW (A1)
+
+-------------------
+Unit Name: Veteran Blood Battle Brother
+Count: 0
+Name: Veteran Blood Battle Brother
+Cost: 40
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- War Veteran
+- Furious
+
+Weapons:
+- Heavy Rifle (24", A1, AP(1))
+- CCW (A1)
+
+-------------------
+Unit Name: Blood Guard Brother
+Count: 0
+Name: Blood Guard Brother
+Cost: 45
+Defense: 3
+Quality: 3
+Rules:
+- Ambush
+- Fearless
+- Flying
+- Furious
+
+Weapons:
+- Assault Pistol (12", A2)
+- Heavy CCW (A2, AP(1))
+
+-------------------
+Unit Name: Veteran Blood Assault Brother
+Count: 0
+Name: Veteran Blood Assault Brother
+Cost: 45
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- War Veteran
+- Furious
+
+Weapons:
+- Heavy Pistol (12", A1, AP(1))
+- Heavy CCW (A2, AP(1))
+
+-------------------
+Unit Name: Blood Support Brother
+Count: 0
+Name: Blood Support Brother
+Cost: 50
+Defense: 3
+Quality: 3
+Rules:
+- Fearless
+- Relentless
+- Furious
+
+Weapons:
+- Heavy Flamer (12", A1, AP(1), Blast(3), Reliable)
+- CCW (A1)
+
+-------------------
+Unit Name: Blood Destroyer
+Count: 0
+Name: Blood Destroyer
+Cost: 70
+Defense: 3
+Quality: 3
+Rules:
+- Ambush
+- Fearless
+- Tough(3)
+- Furious
+
+Weapons:
+- CCW (A3)
+
+-------------------
+Unit Name: Blood Pathfinder Biker
+Count: 2
+Name: Blood Pathfinder Biker
+Cost: 75
+Defense: 4
+Quality: 4
+Rules:
+- Fast
+- Fearless
+- Scout
+- Tough(3)
+- Furious
+
+Weapons:
+- Grenade Launcher (24", A1, Blast(3))
+- Heavy Pistol (12", A1, AP(1))
+- CCW (A2)
+
+-------------------
+Unit Name: Blood Brother Biker
+Count: 0
+Name: Blood Brother Biker
+Cost: 95
+Defense: 3
+Quality: 3
+Rules:
+- Fast
+- Fearless
+- Tough(3)
+- Furious
+
+Weapons:
+- Twin Heavy Rifle (24", A2, AP(1))
+- Heavy Pistol (12", A1, AP(1))
+- CCW (A2)
+
+-------------------

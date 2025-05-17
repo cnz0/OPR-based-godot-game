@@ -1,0 +1,1482 @@
+Units:
+{"id": "BMa76or", "cost": 40, "name": "Cult Leader", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "5HrEUnYw", "name": "Cult Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 2, "weaponId": "RgqMq0ME", "specialRules": [], "label": "Cult Pistol (12\", A2)", "originalCount": 1}, {"id": "AroAbCsg", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["B1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "QVwQQXN", "cost": 50, "name": "Cult Hitman", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "eyMkgYDVrP7C", "name": "Takedown", "label": "Takedown"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "5HrEUnYw", "name": "Cult Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 2, "weaponId": "RgqMq0ME", "specialRules": [], "label": "Cult Pistol (12\", A2)", "originalCount": 1}, {"id": "AroAbCsg", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["C1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "zqbGWjZ", "cost": 70, "name": "Brute Champion", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "8KujvrTG8k9p", "name": "Regeneration", "label": "Regeneration"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 3, "weapons": [{"id": "0I-XmBsa", "name": "Sledgehammer", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "0I-XmBsa", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}, {"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}], "label": "Sledgehammer (A1, AP(2), Blast(3))", "count": 1, "originalCount": 1}], "upgrades": ["A1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "wg6fbNx", "cost": 20, "name": "Neophyte", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "ar_e50-g", "name": "Rifle", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "ar_e50-g", "specialRules": [], "label": "Rifle (24\", A1)", "count": 1, "originalCount": 1}, {"id": "w4DyLplT", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["F1", "H1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "USqMvAJ", "cost": 25, "name": "Acolyte", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "5HrEUnYw", "name": "Pistol", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "5HrEUnYw", "specialRules": [], "label": "Pistol (12\", A1)", "count": 1, "originalCount": 1}, {"id": "XsAm92xK", "name": "Mutant Claws", "type": "ArmyBookWeapon", "attacks": 2, "weaponId": "XsAm92xK", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Mutant Claws (A2, AP(1))", "count": 1, "originalCount": 1}], "upgrades": ["G1", "H1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "Hos9ia8", "cost": 30, "name": "Mutant Brute", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "8KujvrTG8k9p", "name": "Regeneration", "label": "Regeneration"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}], "valid": true, "defense": 4, "quality": 3, "weapons": [{"id": "zfYzESZW", "name": "Heavy Pick", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "zfYzESZW", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Heavy Pick (A2, AP(1), Rending)", "count": 1, "originalCount": 1}], "upgrades": ["I1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "QhBJKna", "cost": 35, "name": "Elite Snatcher", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "additional": false, "label": "Ambush"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "8KujvrTG8k9p", "name": "Regeneration", "label": "Regeneration"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "OTMhQDl9", "name": "Heavy Claws", "type": "ArmyBookWeapon", "attacks": 2, "weaponId": "OTMhQDl9", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Heavy Claws (A2, AP(1), Rending)", "count": 1, "originalCount": 1}], "upgrades": ["J1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "j0Kdw2N", "cost": 35, "name": "Minion Biker", "size": 1, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "YlUeqr5x", "name": "Rifle", "type": "ArmyBookWeapon", "count": 1, "range": 24, "attacks": 1, "weaponId": "ar_e50-g", "specialRules": [], "label": "Rifle (24\", A1)", "originalCount": 1}, {"id": "AroAbCsg", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": ["K1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "t2ehUmj", "cost": 35, "name": "Minions", "size": 3, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "ar_e50-g", "name": "Rifle", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "ar_e50-g", "specialRules": [], "label": "Rifle (24\", A1)", "count": 3, "originalCount": 3}, {"id": "w4DyLplT", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 3, "originalCount": 3}], "upgrades": ["D1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "8V1jGIF", "cost": 35, "name": "Soul-Snatcher", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 4, "quality": 3, "weapons": [{"id": "OTMhQDl9", "name": "Heavy Claws", "type": "ArmyBookWeapon", "attacks": 2, "weaponId": "OTMhQDl9", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Heavy Claws (A2, AP(1), Rending)", "count": 1, "originalCount": 1}], "upgrades": ["J1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "mnjV-FB", "cost": 45, "name": "Support Minion", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "suwornHz", "name": "Mortar", "type": "ArmyBookWeapon", "range": 30, "attacks": 1, "weaponId": "u6fRnF3j", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "8Ck9GAwUK824", "name": "Indirect", "label": "Indirect"}], "label": "Mortar (30\", A1, Blast(3), Indirect)", "count": 1, "originalCount": 1}, {"id": "GeiYXQmk", "name": "Crew", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "uGIqWrDI", "specialRules": [], "label": "Crew (A2)", "count": 1, "originalCount": 1}], "upgrades": ["E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "zqbGWjZ",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Pet Familiar",
+      "type": "ArmyBookItem",
+      "label": "Pet Familiar (Warning Cry)",
+      "content": [
+        {
+          "id": "C6MzEy1CnxTs",
+          "name": "Warning Cry",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zqbGWjZ",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Psychic Idol",
+      "type": "ArmyBookItem",
+      "label": "Psychic Idol (Resistance)",
+      "content": [
+        {
+          "id": "h-Cj1XrX00JE",
+          "name": "Resistance",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Cult Burst Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": "4",
+      "weaponId": "XS_gmPdF",
+      "specialRules": [],
+      "label": "Cult Burst Pistol (12\", A4)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 45
+    },
+    "gains": {
+      "name": "Cult Sniper Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 30,
+      "attacks": 2,
+      "weaponId": "9H8c042C",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Cult Sniper Rifle (30\", A2, AP(1), Reliable)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 0
+    },
+    "gains": {
+      "id": "2DJZJyEd",
+      "name": "Sabotage Charges",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "2DJZJyEd",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Sabotage Charges (A1, AP(1), Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Mkx8t18I",
+      "name": "Syringe Goad",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "Mkx8t18I",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Syringe Goad (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 5
+    },
+    "gains": {
+      "id": "_BJQXp2-",
+      "name": "Array of CCWs",
+      "type": "ArmyBookWeapon",
+      "attacks": 3,
+      "weaponId": "_BJQXp2-",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Array of CCWs (A3, AP(1), Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Mad Scientist",
+      "type": "ArmyBookItem",
+      "label": "Mad Scientist (Experiments)",
+      "content": [
+        {
+          "id": "-8S1-X9sHz_8",
+          "name": "Experiments",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Prime",
+      "type": "ArmyBookItem",
+      "label": "Prime (Agitator)",
+      "content": [
+        {
+          "id": "VK9_urx6upSd",
+          "name": "Agitator",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Propagandist",
+      "type": "ArmyBookItem",
+      "label": "Propagandist (Megaphone)",
+      "content": [
+        {
+          "id": "OkJ2XhOqCxMj",
+          "name": "Megaphone",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Warden",
+      "type": "ArmyBookItem",
+      "label": "Warden (Cult Banner)",
+      "content": [
+        {
+          "id": "U_rHTqXLlE7_",
+          "name": "Cult Banner",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Mage",
+      "type": "ArmyBookItem",
+      "label": "Mage (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 25
+    },
+    "gains": {
+      "name": "Commander",
+      "type": "ArmyBookItem",
+      "label": "Commander (Tactical Console)",
+      "content": [
+        {
+          "id": "qZXt8vQC6HWq",
+          "name": "Tactical Console",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMa76or",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Combat Bike",
+      "type": "ArmyBookItem",
+      "bases": {
+        "round": "60x35",
+        "square": "50x25"
+      },
+      "label": "Combat Bike (Fast)",
+      "content": [
+        {
+          "id": "KdgwlPb8LuD2",
+          "name": "Fast",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "QVwQQXN",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Cult Burst Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": "4",
+      "weaponId": "XS_gmPdF",
+      "specialRules": [],
+      "label": "Cult Burst Pistol (12\", A4)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "QVwQQXN",
+      "cost": 15
+    },
+    "gains": {
+      "id": "BDrronse",
+      "name": "Duelist Pistols",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "BDrronse",
+      "specialRules": [
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Duelist Pistols (12\", A2, AP(1), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "QVwQQXN",
+      "cost": 15
+    },
+    "gains": {
+      "id": "qFNiuv8I",
+      "name": "Toxin Blades",
+      "type": "ArmyBookWeapon",
+      "attacks": 4,
+      "weaponId": "qFNiuv8I",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Toxin Blades (A4, AP(1), Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "QVwQQXN",
+      "cost": 15
+    },
+    "gains": {
+      "id": "tHkSAUkV",
+      "name": "Dual Swords",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 4,
+      "weaponId": "tHkSAUkV",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Dual Swords (A4, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "t2ehUmj",
+      "cost": 10
+    },
+    "gains": {
+      "id": "rWpAIWbo",
+      "name": "Fusion Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "rWpAIWbo",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Rifle (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "t2ehUmj",
+      "cost": 10
+    },
+    "gains": {
+      "id": "gN1LAzCn",
+      "name": "Plasma Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "gN1LAzCn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Rifle (24\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "t2ehUmj",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Drum Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "HGWJuWlP",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Drum Rifle (18\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "t2ehUmj",
+      "cost": 10
+    },
+    "gains": {
+      "id": "C9Hnetww",
+      "name": "Grenade Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "C9Hnetww",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Grenade Launcher (24\", A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "t2ehUmj",
+      "cost": 15
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mnjV-FB",
+      "cost": 5
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mnjV-FB",
+      "cost": 10
+    },
+    "gains": {
+      "id": "dn0IBXYw",
+      "name": "Missile Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "dn0IBXYw",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        },
+        {
+          "id": "QXyt-zV_bjpg",
+          "name": "Lock-On"
+        }
+      ],
+      "label": "Missile Launcher (30\", A1, AP(2), Deadly(3), Lock-On)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mnjV-FB",
+      "cost": 15
+    },
+    "gains": {
+      "id": "-mTDUQJk",
+      "name": "Laser Cannon",
+      "type": "ArmyBookWeapon",
+      "range": 36,
+      "attacks": 1,
+      "weaponId": "-mTDUQJk",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 3
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Laser Cannon (36\", A1, AP(3), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mnjV-FB",
+      "cost": 15
+    },
+    "gains": {
+      "id": "FC6vz5VY",
+      "name": "Autocannon",
+      "type": "ArmyBookWeapon",
+      "range": 36,
+      "attacks": 3,
+      "weaponId": "FC6vz5VY",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Autocannon (36\", A3, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Lnlu85A_",
+      "name": "Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "Lnlu85A_",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Shotgun (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 10
+    },
+    "gains": {
+      "id": "PDXNYKQP",
+      "name": "Web Carbine",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "PDXNYKQP",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Web Carbine (18\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 15
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 15
+    },
+    "gains": {
+      "id": "C9Hnetww",
+      "name": "Grenade Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "C9Hnetww",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Grenade Launcher (24\", A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 20
+    },
+    "gains": {
+      "id": "FyfMkyFR",
+      "name": "Quake Cannon",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "FyfMkyFR",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Quake Cannon (24\", A1, Blast(3), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 20
+    },
+    "gains": {
+      "id": "2Ox5FTEq",
+      "name": "Sniper Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "2Ox5FTEq",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable"
+        }
+      ],
+      "label": "Sniper Rifle (30\", A1, AP(1), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 25
+    },
+    "gains": {
+      "id": "x00DHIZr",
+      "name": "Mining Laser",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "x00DHIZr",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Mining Laser (18\", A1, AP(3), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 30
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 0
+    },
+    "gains": {
+      "id": "5HrEUnYw",
+      "name": "Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "5HrEUnYw",
+      "specialRules": [],
+      "label": "Pistol (12\", A1)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 10
+    },
+    "gains": {
+      "id": "1gH1N6mI",
+      "name": "Web Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "1gH1N6mI",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Web Pistol (12\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 10
+    },
+    "gains": {
+      "id": "zfYzESZW",
+      "name": "Heavy Pick",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "zfYzESZW",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heavy Pick (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 15
+    },
+    "gains": {
+      "id": "xT19k8_i",
+      "name": "Heavy Mace",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "xT19k8_i",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Heavy Mace (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 5
+    },
+    "gains": {
+      "id": "agIlKQ_g",
+      "name": "Flamer Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 6,
+      "attacks": 1,
+      "weaponId": "agIlKQ_g",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer Pistol (6\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": -5
+    },
+    "gains": {
+      "id": "Kop7m-5x",
+      "name": "Demo-Charges",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "Kop7m-5x",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Demo-Charges (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 5
+    },
+    "gains": {
+      "id": "pAMElMbS",
+      "name": "Heavy Cutter",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "pAMElMbS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Heavy Cutter (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 10
+    },
+    "gains": {
+      "id": "yNP2zRoR",
+      "name": "Heavy Drill",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "yNP2zRoR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heavy Drill (A3, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Whip & Blade",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "ancvZ-tL",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Whip & Blade (A2, AP(1), Poison, Reliable, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 15
+    },
+    "gains": {
+      "id": "y8RsHK-M",
+      "name": "Heavy Buzz Saw",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "y8RsHK-M",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Heavy Buzz Saw (A3, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": -5
+    },
+    "gains": {
+      "name": "Sgt. Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "1HINdgr0",
+      "specialRules": [],
+      "label": "Sgt. Pistol (12\", A1)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Blade Claw",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "4e25SAmT",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Blade Claw (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "USqMvAJ",
+      "cost": 10
+    },
+    "gains": {
+      "id": "--aJH9tY",
+      "name": "Razor Whip",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "--aJH9tY",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Razor Whip (A2, Poison, Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wg6fbNx",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Cult Standard",
+      "type": "ArmyBookItem",
+      "label": "Cult Standard (Fear(2))",
+      "content": [
+        {
+          "id": "dIQ3SGl2J2Ew",
+          "name": "Fear",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hos9ia8",
+      "cost": -5
+    },
+    "gains": {
+      "id": "LYCGNNn-",
+      "name": "Heavy Hammer",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "LYCGNNn-",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Heavy Hammer (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hos9ia8",
+      "cost": 5
+    },
+    "gains": {
+      "id": "YwKAQGF6",
+      "name": "Pick Hammer",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "YwKAQGF6",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Pick Hammer (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hos9ia8",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Great Weapon",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "4IqIFErO",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Great Weapon (A3, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "QhBJKna",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Mind Snatcher",
+      "type": "ArmyBookItem",
+      "label": "Mind Snatcher (Caster(1))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 1
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Burst Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 3,
+      "weaponId": "YlUeqr5x",
+      "specialRules": [],
+      "label": "Burst Pistol (12\", A3)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Lnlu85A_",
+      "name": "Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "Lnlu85A_",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Shotgun (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 10
+    },
+    "gains": {
+      "id": "C9Hnetww",
+      "name": "Grenade Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "C9Hnetww",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Grenade Launcher (24\", A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 5
+    },
+    "gains": {
+      "id": "LYCGNNn-",
+      "name": "Heavy Hammer",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "LYCGNNn-",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Heavy Hammer (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 5
+    },
+    "gains": {
+      "id": "zfYzESZW",
+      "name": "Heavy Pick",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "zfYzESZW",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heavy Pick (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 10
+    },
+    "gains": {
+      "id": "d1ujxLiu",
+      "name": "Heavy Axe",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "d1ujxLiu",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Heavy Axe (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "j0Kdw2N",
+      "cost": 10
+    },
+    "gains": {
+      "id": "xT19k8_i",
+      "name": "Heavy Mace",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "xT19k8_i",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Heavy Mace (A2, AP(4))",
+      "count": 1
+    }
+  }
+]

@@ -1,0 +1,1005 @@
+Units:
+{"id": "2Dk-V1m", "cost": 70, "name": "Great Hunter", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 4, "quality": 3, "weapons": [{"id": "5M9K05-z", "name": "Barbed Claw", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "2FZGEFw2", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}, {"type": "ArmyBookRule", "id": "_mrPya5SXSqW", "name": "Deadly", "rating": 3, "label": "Deadly(3)"}], "label": "Barbed Claw (A1, AP(2), Deadly(3))", "originalCount": 1}], "upgrades": ["B1", "C1"], "hasCustomRule": false, "disabledSections": ["V2G50jg"], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "YtYD-ZH", "cost": 35, "name": "Infected Leader", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "JxLx21Jx", "name": "Leader Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 2, "weaponId": "vZvPasuc", "specialRules": [], "label": "Leader Pistol (12\", A2)", "originalCount": 1}, {"id": "1kq0zoPt", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": ["D1", "E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "4cDEOVp", "cost": 15, "name": "Infected", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "JxLx21Jx", "name": "Carbine", "type": "ArmyBookWeapon", "range": 18, "attacks": 2, "weaponId": "JxLx21Jx", "specialRules": [], "label": "Carbine (18\", A2)", "count": 1, "originalCount": 1}, {"id": "1kq0zoPt", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["F1", "jzuNw"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "wFIjWHd", "cost": 20, "name": "Leech Swarm", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 6, "quality": 6, "weapons": [{"id": "ajcnpX4R", "name": "Swarm Attack", "type": "ArmyBookWeapon", "range": 0, "attacks": 3, "weaponId": "47t3-yyc", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Swarm Attack (A3, Poison)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "CFZyeQL", "cost": 25, "name": "Hunter", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 4, "quality": 3, "weapons": [{"id": "dTn34Ye-", "name": "Toxic Claw", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "id5cuLLm", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Toxic Claw (A2, Poison)", "originalCount": 1}], "upgrades": ["I1"], "hasCustomRule": false, "disabledSections": ["F2nqAQI"], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "4tJy4mK", "cost": 25, "name": "Rabid Dog", "size": 1, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "JzRya9zC", "name": "Vicious Jaw", "type": "ArmyBookWeapon", "attacks": 2, "weaponId": "JzRya9zC", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Vicious Jaw (A2, Rending)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "IMWo3hw", "cost": 30, "name": "Infected Gunner", "size": 1, "bases": {"round": "25", "square": "30"}, "items": [], "rules": [{"id": "H9E9PIWpGRdw", "name": "Relentless", "label": "Relentless"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "C9Hnetww", "name": "Grenade Launcher", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "C9Hnetww", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}], "label": "Grenade Launcher (24\", A1, Blast(3))", "count": 1, "originalCount": 1}, {"id": "1kq0zoPt", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["H1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "VNRS8L0", "cost": 30, "name": "Runners", "size": 3, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "JSKVyurtWIyW", "name": "Strider", "additional": false, "label": "Strider"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 6, "quality": 5, "weapons": [{"id": "ts3CFGwE", "name": "Claws", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "LZQtxZh5", "specialRules": [], "label": "Claws (A2)", "count": 3, "originalCount": 3}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "AdJjRz-", "cost": 35, "name": "Crazed Raven", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "ElFHe8fs", "name": "Beak Attack", "type": "ArmyBookWeapon", "attacks": 3, "weaponId": "ElFHe8fs", "specialRules": [], "label": "Beak Attack (A3)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "SFsByjQ", "cost": 35, "name": "Zombies", "size": 3, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "8KujvrTG8k9p", "name": "Regeneration", "label": "Regeneration"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 6, "quality": 5, "weapons": [{"id": "ts3CFGwE", "name": "Claws", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "LZQtxZh5", "specialRules": [], "label": "Claws (A2)", "count": 3, "originalCount": 3}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "eFF0JJq", "cost": 55, "name": "Weapon Team", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "NSNQF9tl", "name": "Mortar", "type": "ArmyBookWeapon", "range": 30, "attacks": 1, "weaponId": "u6fRnF3j", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "8Ck9GAwUK824", "name": "Indirect", "label": "Indirect"}], "label": "Mortar (30\", A1, Blast(3), Indirect)", "count": 1, "originalCount": 1}, {"id": "dK257nnL", "name": "Crew", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "uGIqWrDI", "specialRules": [], "label": "Crew (A2)", "count": 1, "originalCount": 1}], "upgrades": ["G1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "j0HIteF", "cost": 60, "name": "Boomer", "size": 1, "bases": {"round": "50", "square": "40"}, "items": [], "rules": [{"id": "N0JRcI01vSBT", "name": "Boom", "label": "Boom"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "6fh-KO_k", "name": "Putrid Fist", "type": "ArmyBookWeapon", "attacks": 4, "weaponId": "6fh-KO_k", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Putrid Fist (A4, Poison)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "LFBzHhZ", "cost": 60, "name": "Infected Vulture", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "TrXhio05", "name": "Sharp Talon", "type": "ArmyBookWeapon", "attacks": 3, "weaponId": "TrXhio05", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Sharp Talon (A3, AP(1))", "count": 1, "originalCount": 1}], "upgrades": ["J1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "UqaaDf5", "cost": 80, "name": "Corrupted Beast", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "O2Cd7OibBBA5", "name": "Undead", "label": "Undead"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "BnxvX5Sd", "name": "Dual Sharp Claws", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 4, "weaponId": "GzcFvC6l", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Dual Sharp Claws (A4, AP(1), Rending)", "originalCount": 1}], "upgrades": ["K1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "2Dk-V1m",
+      "cost": 5
+    },
+    "gains": {
+      "id": "9kHwAOpG",
+      "name": "Toxic Claw",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 4,
+      "weaponId": "9kHwAOpG",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Toxic Claw (A4, Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "2Dk-V1m",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Great Sharp Claw",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 4,
+      "weaponId": "5M9K05-z",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Great Sharp Claw (A4, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "2Dk-V1m",
+      "cost": 30
+    },
+    "gains": {
+      "id": "p35I8JGl",
+      "name": "Hardened Claw",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 4,
+      "weaponId": "p35I8JGl",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Hardened Claw (A4, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "2Dk-V1m",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Frenzied Strain",
+      "type": "ArmyBookItem",
+      "label": "Frenzied Strain (Bloodthirsty)",
+      "content": [
+        {
+          "id": "t7HEBfsGLkCS",
+          "name": "Bloodthirsty",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "2Dk-V1m",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Gigantic Strain",
+      "type": "ArmyBookItem",
+      "label": "Gigantic Strain (Terrifying)",
+      "content": [
+        {
+          "id": "dS49dthWpl9I",
+          "name": "Terrifying",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "2Dk-V1m",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Evolving Strain",
+      "type": "ArmyBookItem",
+      "label": "Evolving Strain (Mutating)",
+      "content": [
+        {
+          "id": "8z5Jr5sjraan",
+          "name": "Mutating",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Leader Shred Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 3,
+      "weaponId": "289-OOkf",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Leader Shred Pistol (9\", A3, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 5
+    },
+    "gains": {
+      "id": null,
+      "name": "Leader Carbine",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 3,
+      "weaponId": "v3hpAKdm",
+      "specialRules": [],
+      "label": "Leader Carbine (18\", A3)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Leader Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "5cIwqTZ3",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Leader Plasma Pistol (12\", A2, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Leader Sniper Carbine",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": "2",
+      "weaponId": "BlJPeVJ5",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Leader Sniper Carbine (18\", A2, AP(1), Reliable)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Energy Hammer",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "NQfH5qhr",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Energy Hammer (A1, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 5
+    },
+    "gains": {
+      "id": "YusT8dDG",
+      "name": "Energy Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "0-erIAQg",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Energy Sword (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 10
+    },
+    "gains": {
+      "id": "BCEi9Swl",
+      "name": "Energy Fist",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "niaDC-sy",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Energy Fist (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Mad Scientist",
+      "type": "ArmyBookItem",
+      "label": "Mad Scientist (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "YtYD-ZH",
+      "cost": 25
+    },
+    "gains": {
+      "name": "Big Brain",
+      "type": "ArmyBookItem",
+      "label": "Big Brain (Plague Command)",
+      "content": [
+        {
+          "id": "zwHotmNE5tXq",
+          "name": "Plague Command",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 5
+    },
+    "gains": {
+      "id": "C9Hnetww",
+      "name": "Grenade Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "C9Hnetww",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Grenade Launcher (24\", A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 10
+    },
+    "gains": {
+      "id": "Mkr6ZkoQ",
+      "name": "Shred Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "Mkr6ZkoQ",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Shred Rifle (18\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 10
+    },
+    "gains": {
+      "id": "rWpAIWbo",
+      "name": "Fusion Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "rWpAIWbo",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Rifle (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 10
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 20
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "eFF0JJq",
+      "cost": 5
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "eFF0JJq",
+      "cost": 10
+    },
+    "gains": {
+      "id": "dn0IBXYw",
+      "name": "Missile Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "dn0IBXYw",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        },
+        {
+          "id": "QXyt-zV_bjpg",
+          "name": "Lock-On"
+        }
+      ],
+      "label": "Missile Launcher (30\", A1, AP(2), Deadly(3), Lock-On)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "eFF0JJq",
+      "cost": 15
+    },
+    "gains": {
+      "id": "-mTDUQJk",
+      "name": "Laser Cannon",
+      "type": "ArmyBookWeapon",
+      "range": 36,
+      "attacks": 1,
+      "weaponId": "-mTDUQJk",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 3
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Laser Cannon (36\", A1, AP(3), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "eFF0JJq",
+      "cost": 15
+    },
+    "gains": {
+      "id": "FC6vz5VY",
+      "name": "Autocannon",
+      "type": "ArmyBookWeapon",
+      "range": 36,
+      "attacks": 3,
+      "weaponId": "FC6vz5VY",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Autocannon (36\", A3, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "IMWo3hw",
+      "cost": 5
+    },
+    "gains": {
+      "id": "rWpAIWbo",
+      "name": "Fusion Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "rWpAIWbo",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Rifle (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "IMWo3hw",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Mkr6ZkoQ",
+      "name": "Shred Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "Mkr6ZkoQ",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Shred Rifle (18\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "IMWo3hw",
+      "cost": 5
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "IMWo3hw",
+      "cost": 15
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CFZyeQL",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Sharp Claw",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "BnxvX5Sd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Sharp Claw (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CFZyeQL",
+      "cost": 15
+    },
+    "gains": {
+      "id": "dy3mUg7G",
+      "name": "Hardened Claw",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "dy3mUg7G",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Hardened Claw (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "CFZyeQL",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Barbed Claw",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "2FZGEFw2",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Barbed Claw (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LFBzHhZ",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Piercing Beak",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "azb1Ka5s",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Piercing Beak (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LFBzHhZ",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Swoop Attack",
+      "type": "ArmyBookItem",
+      "label": "Swoop Attack (Impact(1))",
+      "content": [
+        {
+          "id": "62-mYKVM9MLd",
+          "name": "Impact",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 1
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "UqaaDf5",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Dual Smashing Fists",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 4,
+      "weaponId": "eGEYtgDS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Dual Smashing Fists (A4, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "UqaaDf5",
+      "cost": -15
+    },
+    "gains": {
+      "name": "Dual Serrated Claws",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "hCc08NPF",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Dual Serrated Claws (A2, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "UqaaDf5",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Dual Piercing Stingers",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "i6BNJyp5",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Dual Piercing Stingers (A2, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": -5
+    },
+    "gains": {
+      "name": "Sgt. Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "1HINdgr0",
+      "specialRules": [],
+      "label": "Sgt. Pistol (12\", A1)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Shred Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "YaHJfoVU",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Shred Pistol (9\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Energy Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "0-erIAQg",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Energy Sword (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "4cDEOVp",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Energy Fist",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "niaDC-sy",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Energy Fist (A2, AP(4))"
+    }
+  }
+]

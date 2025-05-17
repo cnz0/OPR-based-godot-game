@@ -1,0 +1,20 @@
+[gd_scene load_steps=5 format=3 uid="uid://s8587durnaaf"]
+
+[ext_resource type="Texture2D" uid="uid://bajbnti3tierp" path="res://assets/Base_Terrain.png" id="1_43pue"]
+[ext_resource type="Script" path="res://src/Game/Map.gd" id="1_cona7"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_wdhaw"]
+texture = ExtResource("1_43pue")
+texture_region_size = Vector2i(32, 32)
+0:0/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_wcrkp"]
+tile_size = Vector2i(32, 32)
+terrain_set_0/mode = 0
+sources/1 = SubResource("TileSetAtlasSource_wdhaw")
+
+[node name="Map" type="Node2D"]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="."]
+tile_set = SubResource("TileSet_wcrkp")
+script = ExtResource("1_cona7")

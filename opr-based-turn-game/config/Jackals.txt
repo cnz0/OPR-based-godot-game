@@ -1,0 +1,1420 @@
+Units:
+{"id": "Nzc4pM6", "cost": 50, "name": "Elite Veteran", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "H9E9PIWpGRdw", "name": "Relentless", "label": "Relentless"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "uX4Jw7E6", "name": "Goad-Spear", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 3, "weaponId": "dJt8g8BT", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Goad-Spear (A3, Poison)", "originalCount": 1}], "upgrades": ["ED3ga", "Yz7dM"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "XhgyXd9", "cost": 25, "name": "Veteran", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "Yh4wAObk", "name": "Elite Scrap Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 2, "weaponId": "TLVzT0p6", "specialRules": [], "label": "Elite Scrap Pistol (12\", A2)", "originalCount": 1}, {"id": "h3Dq2wAx", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["A1", "ED3ga"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "i38ZXSB", "cost": 15, "name": "Stalker", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "0VARGl65A_Dy", "name": "Dodge", "label": "Dodge"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "additional": false, "label": "Furious"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "h3Dq2wAx", "name": "CCWS", "type": "ArmyBookWeapon", "count": 2, "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "2x CCWS (A1)", "originalCount": 2}], "upgrades": ["j3Xwf"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "uF7noGn", "cost": 25, "name": "Elite", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "H9E9PIWpGRdw", "name": "Relentless", "additional": false, "label": "Relentless"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "uX4Jw7E6", "name": "Energy Rifle", "type": "ArmyBookWeapon", "count": 1, "range": 24, "attacks": 1, "weaponId": "uX4Jw7E6", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Energy Rifle (24\", A1, AP(1))", "originalCount": 1}, {"id": "h3Dq2wAx", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["E1", "cbIZR"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "LutTMHw", "cost": 25, "name": "Vulture", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "575-h5I3kI3x", "name": "Stinger Bombs", "label": "Stinger Bombs"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "_kaQ0", "name": "Scrap Pistol", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 1, "weaponId": "SIDrufsn", "specialRules": [], "label": "Scrap Pistol (12\", A1)", "originalCount": 1}, {"id": "XVTS1", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": ["F1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "8LCt3JN", "cost": 40, "name": "Nomads", "size": 3, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "Yh4wAObk", "name": "Scrap Rifle", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "Yh4wAObk", "specialRules": [], "label": "Scrap Rifle (24\", A1)", "count": 3, "originalCount": 3}, {"id": "h3Dq2wAx", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 3, "originalCount": 3}], "upgrades": ["B1", "cbIZR"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "ARMiAVY", "cost": 40, "name": "Tracker", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "sKnRHNIRS3fP", "name": "Charged Ammo", "label": "Charged Ammo"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "3vlfLXga", "name": "Hunting Rifle", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "3vlfLXga", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "Zx4mWN0SbmK8", "name": "Reliable", "label": "Reliable"}], "label": "Hunting Rifle (24\", A1, AP(1), Reliable)", "count": 1, "originalCount": 1}, {"id": "h3Dq2wAx", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["cbIZR"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "VEbHNRI", "cost": 45, "name": "Hounds", "size": 3, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "Y1m8TZuy", "name": "Claws", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "LZQtxZh5", "specialRules": [], "label": "Claws (A2)", "count": 3, "originalCount": 3}], "upgrades": ["G1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "1znOU_R", "cost": 50, "name": "Beast Rider", "size": 1, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "MwDo_TADepzb", "name": "Bounding", "additional": false, "label": "Bounding"}, {"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "62-mYKVM9MLd", "name": "Impact", "rating": 2, "label": "Impact(2)"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 5, "weapons": [{"id": "1SDqCytK", "name": "Goad-Spear", "type": "ArmyBookWeapon", "count": 1, "attacks": 2, "weaponId": "rwHpYUnu", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Goad-Spear (A2, Poison)", "originalCount": 1}], "upgrades": ["H1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "J6JUfNP", "cost": 65, "name": "Beast Gunner", "size": 1, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "MwDo_TADepzb", "name": "Bounding", "additional": false, "label": "Bounding"}, {"id": "hczirYabftzx", "name": "Carnivore", "additional": false, "label": "Carnivore"}, {"id": "IyLY1212wacW", "name": "Protected", "label": "Protected"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 5, "weapons": [{"id": "1SDqCytK", "name": "Heavy Machinegun", "type": "ArmyBookWeapon", "count": 1, "range": 30, "attacks": 3, "weaponId": "_OuuPXyd", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Heavy Machinegun (30\", A3, AP(1))", "originalCount": 1}, {"id": "tErCL7yE", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "originalCount": 1}], "upgrades": ["TM77h"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Goad-Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "dJt8g8BT",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Goad-Spear (A3, Poison)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Harpoon",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 3,
+      "weaponId": "CAaApo2s",
+      "specialRules": [
+        {
+          "id": "umbiz4tnEyF8",
+          "name": "Lance",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Harpoon (A3, Lance)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 10
+    },
+    "gains": {
+      "id": null,
+      "name": "Hunting Hook",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": "3",
+      "weaponId": "nPARSX_u",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hunting Hook (A3, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Explosive Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 3,
+      "weaponId": "KzZuCHGS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Explosive Spear (A3, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 5
+    },
+    "gains": {
+      "id": "IeFe8nXR",
+      "name": "Scrap Shotgun",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 4,
+      "weaponId": "IeFe8nXR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Scrap Shotgun (6\", A4, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 5
+    },
+    "gains": {
+      "id": null,
+      "name": "Elite Scrap Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "tpIEhWfa",
+      "specialRules": [],
+      "label": "Elite Scrap Rifle (24\", A2)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Elite Hunting Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "48g3y6uq",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Elite Hunting Rifle (24\", A1, AP(1), Reliable)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 10
+    },
+    "gains": {
+      "id": "I7kpYX2Z",
+      "name": "Scrap Club",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "I7kpYX2Z",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Scrap Club (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 10
+    },
+    "gains": {
+      "id": "b5NZhN-b",
+      "name": "Junk Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "b5NZhN-b",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Junk Sword (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 15
+    },
+    "gains": {
+      "id": "fwXZyaYR",
+      "name": "Jagged Hook",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "fwXZyaYR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Jagged Hook (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XhgyXd9",
+      "cost": 15
+    },
+    "gains": {
+      "id": "JL9LWsgB",
+      "name": "Claw Gauntlet",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "JL9LWsgB",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Claw Gauntlet (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 5
+    },
+    "gains": {
+      "id": "SIDrufsn",
+      "name": "Scrap Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "SIDrufsn",
+      "specialRules": [],
+      "label": "Scrap Pistol (12\", A1)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 5
+    },
+    "gains": {
+      "id": "xjbnfRe2",
+      "name": "Power Spiker",
+      "type": "ArmyBookWeapon",
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "xjbnfRe2",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Power Spiker (9\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 5
+    },
+    "gains": {
+      "id": "GYxijt2k",
+      "name": "Force Blaster",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "GYxijt2k",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Force Blaster (12\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 5
+    },
+    "gains": {
+      "id": "IeFe8nXR",
+      "name": "Scrap Shotgun",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 4,
+      "weaponId": "IeFe8nXR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Scrap Shotgun (6\", A4, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 5
+    },
+    "gains": {
+      "id": "2itYbfHw",
+      "name": "Zapper Gun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "2itYbfHw",
+      "specialRules": [
+        {
+          "id": "F4aO_9oN1Ub8",
+          "name": "Taser",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Zapper Gun (12\", A2, Taser)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 15
+    },
+    "gains": {
+      "id": "I0DtXdMF",
+      "name": "Rocket Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "I0DtXdMF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Rocket Launcher (18\", A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 20
+    },
+    "gains": {
+      "id": "EUzRMf_v",
+      "name": "Fumigator",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "EUzRMf_v",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Fumigator (12\", A1, Blast(3), Poison, Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "8LCt3JN",
+      "cost": 20
+    },
+    "gains": {
+      "id": "3vlfLXga",
+      "name": "Hunting Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "3vlfLXga",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hunting Rifle (24\", A1, AP(1), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "uF7noGn",
+      "cost": 0
+    },
+    "gains": {
+      "id": "Lnlu85A_",
+      "name": "Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "Lnlu85A_",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Shotgun (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "uF7noGn",
+      "cost": 10
+    },
+    "gains": {
+      "id": "gN1LAzCn",
+      "name": "Plasma Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "gN1LAzCn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Rifle (24\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "uF7noGn",
+      "cost": 10
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "uF7noGn",
+      "cost": 15
+    },
+    "gains": {
+      "id": "Mkr6ZkoQ",
+      "name": "Shred Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "Mkr6ZkoQ",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Shred Rifle (18\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "uF7noGn",
+      "cost": 50
+    },
+    "gains": {
+      "id": "dn0IBXYw",
+      "name": "Missile Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "dn0IBXYw",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        },
+        {
+          "id": "QXyt-zV_bjpg",
+          "name": "Lock-On"
+        }
+      ],
+      "label": "Missile Launcher (30\", A1, AP(2), Deadly(3), Lock-On)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Explosive Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 2,
+      "weaponId": "1SDqCytK",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Explosive Spear (A2, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 5
+    },
+    "gains": {
+      "id": "GYxijt2k",
+      "name": "Force Blaster",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "GYxijt2k",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Force Blaster (12\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 5
+    },
+    "gains": {
+      "id": "2itYbfHw",
+      "name": "Zapper Gun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "2itYbfHw",
+      "specialRules": [
+        {
+          "id": "F4aO_9oN1Ub8",
+          "name": "Taser",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Zapper Gun (12\", A2, Taser)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 10
+    },
+    "gains": {
+      "id": "uX4Jw7E6",
+      "name": "Energy Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "uX4Jw7E6",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Energy Rifle (24\", A1, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 10
+    },
+    "gains": {
+      "id": "IeFe8nXR",
+      "name": "Scrap Shotgun",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 4,
+      "weaponId": "IeFe8nXR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Scrap Shotgun (6\", A4, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 10
+    },
+    "gains": {
+      "id": "b5NZhN-b",
+      "name": "Junk Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "b5NZhN-b",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Junk Sword (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 20
+    },
+    "gains": {
+      "id": "JL9LWsgB",
+      "name": "Claw Gauntlet",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "JL9LWsgB",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Claw Gauntlet (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 5
+    },
+    "gains": {
+      "id": "I7kpYX2Z",
+      "name": "Scrap Club",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "I7kpYX2Z",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Scrap Club (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "LutTMHw",
+      "cost": 15
+    },
+    "gains": {
+      "id": "fwXZyaYR",
+      "name": "Jagged Hook",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "fwXZyaYR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Jagged Hook (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VEbHNRI",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Hunter Breed",
+      "type": "ArmyBookItem",
+      "label": "Hunter Breed (Furious)",
+      "content": [
+        {
+          "id": "JoOCVPx1xT1G",
+          "name": "Furious",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VEbHNRI",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Vicious Bite",
+      "type": "ArmyBookItem",
+      "label": "Vicious Bite (Poison in Melee)",
+      "content": [
+        {
+          "id": "lFp16bk55gKW",
+          "name": "Poison in Melee",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "1znOU_R",
+      "cost": 0
+    },
+    "gains": {
+      "id": "H7GeP3aS",
+      "name": "Harpoon",
+      "type": "ArmyBookWeapon",
+      "attacks": 2,
+      "weaponId": "H7GeP3aS",
+      "specialRules": [
+        {
+          "id": "umbiz4tnEyF8",
+          "name": "Lance",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Harpoon (A2, Lance)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "1znOU_R",
+      "cost": 5
+    },
+    "gains": {
+      "id": "1j6dSrsa",
+      "name": "Hunting Hook",
+      "type": "ArmyBookWeapon",
+      "attacks": 2,
+      "weaponId": "1j6dSrsa",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hunting Hook (A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "1znOU_R",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Explosive Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 2,
+      "weaponId": "1SDqCytK",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Explosive Spear (A2, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "uF7noGn",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Satellite Backpack",
+      "type": "ArmyBookItem",
+      "label": "Satellite Backpack (Beacon)",
+      "content": [
+        {
+          "id": "rJSSHbaRMID4",
+          "name": "Beacon",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "i38ZXSB",
+      "cost": 5
+    },
+    "gains": {
+      "id": "kFFXOojA",
+      "name": "Junk Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "kFFXOojA",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Junk Sword (A1, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "i38ZXSB",
+      "cost": 10
+    },
+    "gains": {
+      "id": "k5LMOmVz",
+      "name": "Claw Hand",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "k5LMOmVz",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Claw Hand (A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "i38ZXSB",
+      "cost": 10
+    },
+    "gains": {
+      "id": "I7kpYX2Z",
+      "name": "Scrap Club",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "I7kpYX2Z",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Scrap Club (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "i38ZXSB",
+      "cost": 20
+    },
+    "gains": {
+      "id": "fwXZyaYR",
+      "name": "Jagged Hook",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "fwXZyaYR",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Jagged Hook (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Combat Warlord",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Combat Warlord (Battle Call)",
+      "content": [
+        {
+          "id": "CBh3EMmcqSXp",
+          "name": "Battle Call",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Hunt Master",
+      "type": "ArmyBookItem",
+      "label": "Hunt Master (Prowl)",
+      "content": [
+        {
+          "id": "84OzczhuOkkZ",
+          "name": "Prowl",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Pathfinder",
+      "type": "ArmyBookItem",
+      "label": "Pathfinder (Hidden Route)",
+      "content": [
+        {
+          "id": "DaJAAp5VhB9x",
+          "name": "Hidden Route",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Siege Warlord",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Siege Warlord (Rallying Call)",
+      "content": [
+        {
+          "id": "t8YTT5XsjVoo",
+          "name": "Rallying Call",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Shaman",
+      "type": "ArmyBookItem",
+      "label": "Shaman (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 50
+    },
+    "gains": {
+      "name": "Merchant",
+      "type": "ArmyBookItem",
+      "label": "Merchant (Scrap Ammo)",
+      "content": [
+        {
+          "id": "BLw6OX__MqiZ",
+          "name": "Scrap Ammo",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Satellite Backpack",
+      "type": "ArmyBookItem",
+      "label": "Satellite Backpack (Beacon)",
+      "content": [
+        {
+          "id": "rJSSHbaRMID4",
+          "name": "Beacon",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Jetpack",
+      "type": "ArmyBookItem",
+      "label": "Jetpack (Ambush, Flying, Stinger Bombs)",
+      "content": [
+        {
+          "id": "6mJw5IdqSqNC",
+          "name": "Ambush",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "-QJdqJEKjIpE",
+          "name": "Flying",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "575-h5I3kI3x",
+          "name": "Stinger Bombs",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 55
+    },
+    "gains": {
+      "name": "Gunner Beast",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Gunner Beast (Bounding, Protected, Tough(3))",
+      "content": [
+        {
+          "id": "IyLY1212wacW",
+          "name": "Protected",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "a0YtInGiUDd6",
+          "name": "Tough",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "MwDo_TADepzb",
+          "name": "Bounding",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 55
+    },
+    "gains": {
+      "name": "Assault Beast",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Assault Beast (Bounding, Impact(2), Tough(3))",
+      "content": [
+        {
+          "id": "MwDo_TADepzb",
+          "name": "Bounding",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "62-mYKVM9MLd",
+          "name": "Impact",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "a0YtInGiUDd6",
+          "name": "Tough",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Elite Shotgun",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 3,
+      "weaponId": "SVoOZvA4",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Elite Shotgun (12\", A3, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Harpoon",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 3,
+      "weaponId": "CAaApo2s",
+      "specialRules": [
+        {
+          "id": "umbiz4tnEyF8",
+          "name": "Lance",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Harpoon (A3, Lance)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 5
+    },
+    "gains": {
+      "id": null,
+      "name": "Hunting Hook",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": "3",
+      "weaponId": "nPARSX_u",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hunting Hook (A3, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Explosive Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 3,
+      "weaponId": "KzZuCHGS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Explosive Spear (A3, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Nzc4pM6",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Elite Energy Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "G4199hWy",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Elite Energy Rifle (24\", A2, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "J6JUfNP",
+      "cost": -5
+    },
+    "gains": {
+      "id": "UkUSosdP",
+      "name": "Hunting Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "3vlfLXga",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hunting Rifle (24\", A1, AP(1), Reliable)",
+      "count": 1
+    }
+  }
+]

@@ -1,0 +1,226 @@
+[gd_scene load_steps=13 format=3 uid="uid://s8587durnaaf"]
+
+[ext_resource type="Texture2D" uid="uid://bajbnti3tierp" path="res://assets/Base_Terrain.png" id="1_43pue"]
+[ext_resource type="Script" path="res://src/Game/Map.gd" id="1_cona7"]
+[ext_resource type="Texture2D" uid="uid://btkscd53mmp5r" path="res://assets/Terrain_Layers.png" id="3_qvqa2"]
+[ext_resource type="Script" path="res://src/Game/Game.gd" id="3_wvp8b"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_tbxai"]
+resource_name = "Base_Terrain"
+texture = ExtResource("1_43pue")
+texture_region_size = Vector2i(32, 32)
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+2:0/0 = 0
+3:0/0 = 0
+4:0/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_0magd"]
+tile_size = Vector2i(32, 32)
+sources/0 = SubResource("TileSetAtlasSource_tbxai")
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_nce8n"]
+texture = ExtResource("3_qvqa2")
+texture_region_size = Vector2i(32, 32)
+0:0/0 = 0
+1:0/0 = 0
+0:1/0 = 0
+1:1/0 = 0
+
+[sub_resource type="TileSet" id="TileSet_n450i"]
+sources/0 = SubResource("TileSetAtlasSource_nce8n")
+
+[sub_resource type="Animation" id="Animation_jka3p"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Camera2D/PauseMenu/ColorRect2:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("ColorRect:modulate")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0.521569)]
+}
+
+[sub_resource type="Animation" id="Animation_26po7"]
+resource_name = "fade_in"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Camera2D/PauseMenu/ColorRect2:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0.521569), Color(0, 0, 0, 1)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = false
+tracks/1/path = NodePath("ColorRect:modulate")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0.607843), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_igwwh"]
+resource_name = "fade_out"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Camera2D/PauseMenu/ColorRect2:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_7dh7j"]
+_data = {
+"RESET": SubResource("Animation_jka3p"),
+"fade_in": SubResource("Animation_26po7"),
+"fade_out": SubResource("Animation_igwwh")
+}
+
+[node name="Map" type="Node2D"]
+
+[node name="Map" type="TileMapLayer" parent="."]
+position = Vector2(-4, 0)
+tile_set = SubResource("TileSet_0magd")
+script = ExtResource("1_cona7")
+
+[node name="TileMapLayer" type="TileMapLayer" parent="Map"]
+tile_set = SubResource("TileSet_n450i")
+
+[node name="ColorRect" type="ColorRect" parent="Map"]
+modulate = Color(1, 1, 1, 0.521569)
+offset_right = 2560.0
+offset_bottom = 2560.0
+color = Color(1, 1, 1, 0)
+
+[node name="BeginGame" type="Button" parent="Map"]
+offset_left = 1143.0
+offset_top = 1243.0
+offset_right = 1418.0
+offset_bottom = 1318.0
+text = "Begin
+"
+
+[node name="UnitInfo" type="RichTextLabel" parent="Map"]
+visible = false
+offset_left = 100.0
+offset_top = 2660.0
+offset_right = 500.0
+offset_bottom = 2860.0
+
+[node name="ColorRect" type="ColorRect" parent="Map/UnitInfo"]
+layout_mode = 0
+offset_right = 400.0
+offset_bottom = 200.0
+color = Color(0, 0, 0, 0.27451)
+
+[node name="GameLog" type="RichTextLabel" parent="Map"]
+visible = false
+offset_left = 700.0
+offset_top = 2660.0
+offset_right = 1300.0
+offset_bottom = 2860.0
+
+[node name="ColorRect" type="ColorRect" parent="Map/GameLog"]
+layout_mode = 0
+offset_right = 600.0
+offset_bottom = 200.0
+color = Color(0, 0, 0, 0.27451)
+
+[node name="EndTurn" type="Button" parent="Map"]
+visible = false
+offset_left = 2185.0
+offset_top = 2722.0
+offset_right = 2460.0
+offset_bottom = 2797.0
+text = "End Turn"
+
+[node name="Camera2D" type="Camera2D" parent="Map"]
+position = Vector2(1280, 1280)
+ignore_rotation = false
+zoom = Vector2(0.6, 0.6)
+script = ExtResource("3_wvp8b")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Map/Camera2D"]
+root_node = NodePath("../..")
+libraries = {
+"": SubResource("AnimationLibrary_7dh7j")
+}
+
+[node name="PauseMenu" type="CanvasLayer" parent="Map/Camera2D"]
+visible = false
+
+[node name="ColorRect2" type="ColorRect" parent="Map/Camera2D/PauseMenu"]
+offset_right = 1920.0
+offset_bottom = 1080.0
+color = Color(0, 0, 0, 0.6)
+
+[node name="ResumeGameButton" type="Button" parent="Map/Camera2D/PauseMenu/ColorRect2"]
+layout_mode = 0
+offset_left = 833.0
+offset_top = 250.0
+offset_right = 1108.0
+offset_bottom = 325.0
+text = "Resume game"
+
+[node name="SaveGameButton" type="Button" parent="Map/Camera2D/PauseMenu/ColorRect2"]
+layout_mode = 0
+offset_left = 833.0
+offset_top = 400.0
+offset_right = 1108.0
+offset_bottom = 475.0
+text = "Save"
+
+[node name="LoadGameButton" type="Button" parent="Map/Camera2D/PauseMenu/ColorRect2"]
+layout_mode = 0
+offset_left = 833.0
+offset_top = 550.0
+offset_right = 1108.0
+offset_bottom = 625.0
+text = "Load"
+
+[node name="QuitGameButton" type="Button" parent="Map/Camera2D/PauseMenu/ColorRect2"]
+layout_mode = 0
+offset_left = 833.0
+offset_top = 700.0
+offset_right = 1108.0
+offset_bottom = 775.0
+text = "Return to main menu"
+
+[connection signal="pressed" from="Map/BeginGame" to="Map" method="_on_begin_game_pressed"]
+[connection signal="pressed" from="Map/Camera2D/PauseMenu/ColorRect2/ResumeGameButton" to="Map/Camera2D" method="_on_resume_game_button_pressed"]
+[connection signal="pressed" from="Map/Camera2D/PauseMenu/ColorRect2/SaveGameButton" to="Map" method="_on_save_game_button_pressed"]
+[connection signal="pressed" from="Map/Camera2D/PauseMenu/ColorRect2/LoadGameButton" to="Map" method="_on_load_game_button_pressed"]
+[connection signal="pressed" from="Map/Camera2D/PauseMenu/ColorRect2/QuitGameButton" to="Map/Camera2D" method="_on_quit_game_button_pressed"]

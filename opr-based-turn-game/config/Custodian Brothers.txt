@@ -1,0 +1,607 @@
+Units:
+{"id": "lFMAUl8", "cost": 65, "name": "Great Sister", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 4, "weapons": [{"id": "CMHNPV8P", "name": "Energy Sword", "type": "ArmyBookWeapon", "range": 0, "attacks": 4, "weaponId": "mh9dOuMu", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Energy Sword (A4, AP(1), Rending)", "count": 1, "originalCount": 1}], "upgrades": ["D1", "E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "Z6mGfk5", "cost": 30, "name": "Prosecution Sister", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "H9E9PIWpGRdw", "name": "Relentless", "label": "Relentless"}], "valid": true, "defense": 3, "quality": 4, "weapons": [{"id": "yQ0eC2Q_", "name": "Prosecution Rifle", "type": "ArmyBookWeapon", "range": 24, "attacks": 2, "weaponId": "yQ0eC2Q_", "specialRules": [], "label": "Prosecution Rifle (24\", A2)", "count": 1, "originalCount": 1}, {"id": "TIWzvdh9", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "i8UI-D4", "cost": 30, "name": "Vigilant Sister", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}], "valid": true, "defense": 3, "quality": 4, "weapons": [{"id": "9lYJ2BM_", "name": "Energy Sword", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "0-erIAQg", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Energy Sword (A2, AP(1), Rending)", "count": 1, "originalCount": 1}], "upgrades": ["E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "cz1d_6M", "cost": 35, "name": "Hunter Sister", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "FAMbscK5vhSu", "name": "Scout", "label": "Scout"}], "valid": true, "defense": 3, "quality": 4, "weapons": [{"id": "-_T9wTAv", "name": "Flamer", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "-_T9wTAv", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "Zx4mWN0SbmK8", "name": "Reliable", "label": "Reliable"}], "label": "Flamer (12\", A1, Blast(3), Reliable)", "count": 1, "originalCount": 1}, {"id": "TIWzvdh9", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "zHrtuAb", "cost": 70, "name": "Custodian Brother", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 2, "quality": 3, "weapons": [{"id": "vmgB8xrs", "name": "Shot-Mount", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 1, "weaponId": "vmgB8xrs", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Shot-Mount (12\", A1, AP(1))", "originalCount": 1}, {"id": "uc8osPGs", "name": "Axe", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "D_1KaLkW", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}], "label": "Axe (A1, Blast(3))", "originalCount": 1}], "upgrades": ["H1", "UF0iY"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "7HPABma", "cost": 85, "name": "Jetpack Brother", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "5YrbuqA7", "name": "Shot-Mount", "type": "ArmyBookWeapon", "count": 1, "range": 12, "attacks": 1, "weaponId": "vmgB8xrs", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Shot-Mount (12\", A1, AP(1))", "originalCount": 1}, {"id": "RZCobhxB", "name": "Heavy CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 3, "weaponId": "BuZWW7BT", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Heavy CCW (A3, AP(1))", "originalCount": 1}], "upgrades": ["F1", "H1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 0
+    },
+    "gains": {
+      "id": "yQ0eC2Q_",
+      "name": "Prosecution Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "yQ0eC2Q_",
+      "specialRules": [],
+      "label": "Prosecution Rifle (24\", A2)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 5
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Prosecution Ammo",
+      "type": "ArmyBookItem",
+      "label": "Prosecution Ammo (Relentless)",
+      "content": [
+        {
+          "id": "H9E9PIWpGRdw",
+          "name": "Relentless",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Hunter Instincts",
+      "type": "ArmyBookItem",
+      "label": "Hunter Instincts (Scout)",
+      "content": [
+        {
+          "id": "FAMbscK5vhSu",
+          "name": "Scout",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Vigilant Oath",
+      "type": "ArmyBookItem",
+      "label": "Vigilant Oath (Furious)",
+      "content": [
+        {
+          "id": "JoOCVPx1xT1G",
+          "name": "Furious",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Sorceress",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Sorceress (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Master Sorceress",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Master Sorceress (Caster(3))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 10
+    },
+    "gains": {
+      "id": "LN0aNUA3VPw8",
+      "name": "Eternal Vigilant",
+      "type": "ArmyBookRule",
+      "label": "Eternal Vigilant",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 10
+    },
+    "gains": {
+      "id": "pPBgUpHB9OF1",
+      "name": "Witch Destroyer",
+      "type": "ArmyBookRule",
+      "label": "Witch Destroyer",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 25
+    },
+    "gains": {
+      "id": "S5cx3IBxJBXA",
+      "name": "High Prosecutor",
+      "type": "ArmyBookRule",
+      "label": "High Prosecutor",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lFMAUl8",
+      "cost": 10
+    },
+    "gains": {
+      "id": "B--NHwOGx3_9",
+      "name": "Holy Shield",
+      "type": "ArmyBookRule",
+      "label": "Holy Shield",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7HPABma",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Shot-Mount",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": "3",
+      "weaponId": "MMAHB88x",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Shot-Mount (12\", A3, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7HPABma",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Destroyer Long Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 3,
+      "weaponId": "5YrbuqA7",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Destroyer Long Pistol (18\", A3, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7HPABma",
+      "cost": 40
+    },
+    "gains": {
+      "name": "Storm-Mount",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 3,
+      "weaponId": "c2JHfQmS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Storm-Mount (24\", A3, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7HPABma",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Energy Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "wScGkDau",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Energy Sword (A3, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7HPABma",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "iElUYbRF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Spear (A3, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Combat Shields",
+      "type": "ArmyBookItem",
+      "label": "Combat Shields (Heavy Shield)",
+      "content": [
+        {
+          "id": "AcDwQ6MYiTO4",
+          "name": "Heavy Shield",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Wardens",
+      "type": "ArmyBookItem",
+      "label": "Wardens (Regeneration)",
+      "content": [
+        {
+          "id": "8KujvrTG8k9p",
+          "name": "Regeneration",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Shot-Mount",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": "3",
+      "weaponId": "MMAHB88x",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Shot-Mount (12\", A3, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 15
+    },
+    "gains": {
+      "id": "Hiz3sqjv",
+      "name": "Flame-Mount",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "7oUGcfua",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flame-Mount (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 25
+    },
+    "gains": {
+      "id": "O-EEnUs6",
+      "name": "Fuse-Mount",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "ZlZDDLfS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fuse-Mount (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 30
+    },
+    "gains": {
+      "id": "Zvh4QeS2",
+      "name": "Bolt-Mount",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 3,
+      "weaponId": "D0emMpRH",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Bolt-Mount (18\", A3, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 35
+    },
+    "gains": {
+      "id": "P7MPasMM",
+      "name": "Needler-Mount",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 3,
+      "weaponId": "SkL8T6no",
+      "specialRules": [
+        {
+          "id": "Naqc5mga9Uha",
+          "name": "Poison",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Needler-Mount (24\", A3, Poison)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 40
+    },
+    "gains": {
+      "id": "qmgJw2by",
+      "name": "Storm-Mount",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 3,
+      "weaponId": "c2JHfQmS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Storm-Mount (24\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 10
+    },
+    "gains": {
+      "id": "wZONRPgN",
+      "name": "Halberd",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "R6v_PGDJ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Halberd (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "uc8osPGs",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Sword (A3, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 30
+    },
+    "gains": {
+      "id": "iqQ03rhu",
+      "name": "Spear",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "iElUYbRF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Spear (A3, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "zHrtuAb",
+      "cost": 10
+    },
+    "gains": {
+      "id": "ywXKQKPOLjTF",
+      "name": "Banner",
+      "type": "ArmyBookRule",
+      "label": "Banner",
+      "count": 1
+    }
+  }
+]

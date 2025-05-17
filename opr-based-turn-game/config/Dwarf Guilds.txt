@@ -1,0 +1,2548 @@
+Units:
+{"id": "ILXnjbU", "cost": 40, "name": "Dwarf Champion", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [{"id": "d45yi", "name": "Combat Shield", "type": "ArmyBookItem", "bases": null, "content": [{"id": "wsqfB0fq69eG", "name": "Shield Wall", "type": "ArmyBookRule"}], "count": 1}], "rules": [{"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "xriOR9J9", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": ["A1", "B1", "knt9G"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "NSdGbsg", "cost": 45, "name": "Berserker Veteran", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "TTL5RNmwotoh", "name": "Slayer", "label": "Slayer"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "uggJ5GZc", "name": "Heavy Great Axe", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "7mGKSYBi", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}, {"type": "ArmyBookRule", "id": "_mrPya5SXSqW", "name": "Deadly", "rating": 3, "label": "Deadly(3)"}], "label": "Heavy Great Axe (A1, AP(2), Deadly(3))", "originalCount": 1}], "upgrades": ["C1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "19jHTYi", "cost": 95, "name": "Hadrund oth Irnwuld", "size": 1, "type": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "q556W0bYb-rA", "name": "Depth Prospector", "label": "Depth Prospector"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "rqBYj1yANC3J", "name": "Unique", "label": "Unique"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "xriOR9J9", "name": "Boulderbreaker", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 4, "weaponId": "3U4DodcO", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}, {"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Boulderbreaker (A4, AP(2), Rending)", "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "nojZ6_b", "cost": 15, "name": "Berserker", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "label": "Fearless"}, {"id": "JoOCVPx1xT1G", "name": "Furious", "label": "Furious"}, {"id": "TTL5RNmwotoh", "name": "Slayer", "label": "Slayer"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "f5rly", "name": "Great Axe", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "6DQTfhEf", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}], "label": "Great Axe (A1, AP(2))", "originalCount": 1}], "upgrades": ["K-pN2"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "mEzgxJr", "cost": 15, "name": "Dwarf Warrior", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "ar_e50-g", "name": "Rifle", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "ar_e50-g", "specialRules": [], "label": "Rifle (24\", A1)", "count": 1, "originalCount": 1}, {"id": "xriOR9J9", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["D1", "jzuNw"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "PmhNMYW", "key": "optimistic-eel-boy", "cost": 20, "name": "Elite", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "2atvlmICQSCV", "name": "Fearless", "additional": false, "label": "Fearless"}, {"id": "IyLY1212wacW", "name": "Protected", "label": "Protected"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "additional": false, "label": "Slow"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "qxFMJwYD", "name": "Heat Hammer", "type": "ArmyBookWeapon", "attacks": 1, "weaponId": "qxFMJwYD", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}, {"type": "ArmyBookRule", "id": "xbo_cAvhX-AA", "name": "Magma", "label": "Magma"}], "label": "Heat Hammer (A1, AP(2), Magma)", "count": 1, "originalCount": 1}], "upgrades": ["3M4up"], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "cDk2wUI", "key": "bold-eel-rookie", "cost": 20, "name": "Iron Veteran", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "Ldhtmr4H8b6G", "name": "Slow", "additional": false, "label": "Slow"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "9wpVsQDZ", "name": "Iron Shotgun", "type": "ArmyBookWeapon", "range": 6, "attacks": 2, "weaponId": "9wpVsQDZ", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}], "label": "Iron Shotgun (6\", A2, AP(2))", "count": 1, "originalCount": 1}, {"id": "xriOR9J9", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["zgWVm", "-lfq-"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "I4NB_Rk", "cost": 20, "name": "Jetpack Warrior", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "label": "Ambush"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}], "valid": false, "defense": 4, "quality": 4, "weapons": [{"id": "5HrEUnYw", "name": "Pistol", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "5HrEUnYw", "specialRules": [], "label": "Pistol (12\", A1)", "count": 1, "originalCount": 1}, {"id": "2-pWJTfe", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["G1", "fN_Qf"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": true, "disabledUpgradeSections": []}
+{"id": "BMDQBuG", "cost": 25, "name": "Miner", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "djJahpu0Ciut", "name": "Tunneller", "label": "Tunneller"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "oO9-KuPX", "name": "Iron Pistol", "type": "ArmyBookWeapon", "range": 9, "attacks": 2, "weaponId": "oO9-KuPX", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Iron Pistol (9\", A2, AP(1))", "count": 1, "originalCount": 1}, {"id": "2-pWJTfe", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["H1", "qsrEh"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "WbdkmXl", "key": "chemical-eel-rookie", "cost": 35, "name": "Sniper Team", "size": 1, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "FAMbscK5vhSu", "name": "Scout", "additional": false, "label": "Scout"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "additional": false, "label": "Slow"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "additional": false, "label": "Stealth"}], "valid": true, "defense": 5, "quality": 4, "weapons": [{"id": "2Ox5FTEq", "name": "Sniper Rifle", "type": "ArmyBookWeapon", "range": 30, "attacks": 1, "weaponId": "2Ox5FTEq", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "Zx4mWN0SbmK8", "name": "Reliable", "label": "Reliable"}], "label": "Sniper Rifle (30\", A1, AP(1), Reliable)", "count": 1, "originalCount": 1}, {"id": "xriOR9J9", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["N0Cgw"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "OijrRWq", "cost": 40, "name": "Guardians", "size": 3, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "wsqfB0fq69eG", "name": "Shield Wall", "label": "Shield Wall"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "xqM6V", "name": "Pistol", "type": "ArmyBookWeapon", "count": 3, "range": 12, "attacks": 1, "weaponId": "5HrEUnYw", "specialRules": [], "label": "Pistol (12\", A1)", "originalCount": 3}, {"id": "73wuM", "name": "Bash", "type": "ArmyBookWeapon", "count": 3, "range": 0, "attacks": 1, "weaponId": "_9QIOlsl", "specialRules": [], "label": "Bash (A1)", "originalCount": 3}], "upgrades": ["cp4t1"], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "Hodf3Bu", "cost": 55, "name": "Powersuit Guard", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [{"id": "ejtD_", "name": "Combat Shield", "type": "ArmyBookItem", "bases": null, "content": [{"id": "wsqfB0fq69eG", "name": "Shield Wall", "type": "ArmyBookRule"}], "count": 1}], "rules": [{"id": "6mJw5IdqSqNC", "name": "Ambush", "additional": false, "label": "Ambush"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "YU5gsnS0", "name": "Shock Hammer", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "y9l_zdNB", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}], "label": "Shock Hammer (A1, Blast(3))", "originalCount": 1}], "upgrades": ["K1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "7DfXFg9", "cost": 60, "name": "Thunder Support", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "K0lgAPZs", "name": "Mortar", "type": "ArmyBookWeapon", "range": 30, "attacks": 1, "weaponId": "u6fRnF3j", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "8Ck9GAwUK824", "name": "Indirect", "label": "Indirect"}], "label": "Mortar (30\", A1, Blast(3), Indirect)", "count": 1, "originalCount": 1}, {"id": "2-pWJTfe", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["L1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "L7Cxnmn", "cost": 70, "name": "Dwarf Biker", "size": 1, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "ig-Kih6q", "name": "Auto-Gun", "type": "ArmyBookWeapon", "range": 24, "attacks": 2, "weaponId": "ig-Kih6q", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Auto-Gun (24\", A2, AP(1))", "count": 1, "originalCount": 1}, {"id": "oO9-KuPX", "name": "Iron Pistol", "type": "ArmyBookWeapon", "range": 9, "attacks": 2, "weaponId": "oO9-KuPX", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Iron Pistol (9\", A2, AP(1))", "count": 1, "originalCount": 1}, {"id": "2-pWJTfe", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["M1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Champion Twin Glove-Pistols",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": "4",
+      "weaponId": "iuP28cPP",
+      "specialRules": [],
+      "label": "Champion Twin Glove-Pistols (12\", A4)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 5
+    },
+    "gains": {
+      "id": null,
+      "name": "Champion Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "VuHfW_PB",
+      "specialRules": [],
+      "label": "Champion Pistol (12\", A2)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Flamer Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 1,
+      "weaponId": "agIlKQ_g",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer Pistol (6\", A1, Blast(3), Reliable)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Fusion Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 1,
+      "weaponId": "ffmWT-Hb",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Pistol (6\", A1, AP(4), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Champion H-Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 3,
+      "weaponId": "dfdgchWD",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Champion H-Pistol (9\", A3, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Champion Iron Shotgun",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": "4",
+      "weaponId": "qmwbGBYS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Champion Iron Shotgun (6\", A4, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Champion Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "xGyE5uCz",
+      "specialRules": [],
+      "label": "Champion Rifle (24\", A2)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Champion Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": "4",
+      "weaponId": "yJzVgUTS",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Champion Iron Pistol (9\", A4, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Champion Shotgun",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 3,
+      "weaponId": "7pVdnR2E",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Champion Shotgun (12\", A3, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Champion Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "5WBl165k",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Champion Plasma Pistol (12\", A2, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 25
+    },
+    "gains": {
+      "name": "Champion Iron Blaster",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": "3",
+      "weaponId": "2Z1ntEaQ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Champion Iron Blaster (18\", A3, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 5
+    },
+    "gains": {
+      "id": "y9l_zdNB",
+      "name": "Shock Hammer",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "y9l_zdNB",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Shock Hammer (A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 10
+    },
+    "gains": {
+      "id": "YRPSurpF",
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "YRPSurpF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 15
+    },
+    "gains": {
+      "id": "TTbASknm",
+      "name": "Plasma Axe",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "TTbASknm",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Plasma Axe (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 20
+    },
+    "gains": {
+      "id": "_xk1JRdU",
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "_xk1JRdU",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 25
+    },
+    "gains": {
+      "name": "Jetpack",
+      "type": "ArmyBookItem",
+      "bases": {
+        "round": "32",
+        "square": "25"
+      },
+      "label": "Jetpack (Ambush, Flying, Swift)",
+      "content": [
+        {
+          "id": "6mJw5IdqSqNC",
+          "name": "Ambush",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "-QJdqJEKjIpE",
+          "name": "Flying",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "leFm23MTiJxO",
+          "name": "Swift",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 100
+    },
+    "gains": {
+      "name": "Combat Bike",
+      "type": "ArmyBookItem",
+      "bases": {
+        "round": "60x35",
+        "square": "50x25"
+      },
+      "label": "Combat Bike (Auto-Gun (24\", A2, AP(1)), Fast, Swift, Tough(3))",
+      "content": [
+        {
+          "id": "KdgwlPb8LuD2",
+          "name": "Fast",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "leFm23MTiJxO",
+          "name": "Swift",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "a0YtInGiUDd6",
+          "name": "Tough",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "name": "Auto-Gun",
+          "type": "ArmyBookWeapon",
+          "count": 1,
+          "range": 24,
+          "attacks": 2,
+          "weaponId": "ig-Kih6q",
+          "specialRules": [
+            {
+              "id": "17crjK7P6_w6",
+              "name": "AP",
+              "rating": 1
+            }
+          ],
+          "label": "Auto-Gun (24\", A2, AP(1))"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "NSdGbsg",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Dual Heavy Berserker Axes",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 4,
+      "weaponId": "uggJ5GZc",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Dual Heavy Berserker Axes (A4, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "NSdGbsg",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Cyber-Augments",
+      "type": "ArmyBookItem",
+      "label": "Cyber-Augments (Regeneration)",
+      "content": [
+        {
+          "id": "8KujvrTG8k9p",
+          "name": "Regeneration",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "NSdGbsg",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Rage Lord",
+      "type": "ArmyBookItem",
+      "label": "Rage Lord (Battle Haste)",
+      "content": [
+        {
+          "id": "LRFrnVp661tS",
+          "name": "Battle Haste",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Lnlu85A_",
+      "name": "Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "Lnlu85A_",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Shotgun (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 10
+    },
+    "gains": {
+      "id": "PQAEiBd9",
+      "name": "Iron Blaster",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "PQAEiBd9",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Iron Blaster (18\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 10
+    },
+    "gains": {
+      "id": "9gTX_PgY",
+      "name": "Auto H-Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "9gTX_PgY",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Auto H-Rifle (18\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 15
+    },
+    "gains": {
+      "id": "gN1LAzCn",
+      "name": "Plasma Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "gN1LAzCn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Rifle (24\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 15
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 20
+    },
+    "gains": {
+      "id": "rWpAIWbo",
+      "name": "Fusion Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "rWpAIWbo",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Rifle (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 30
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 40
+    },
+    "gains": {
+      "id": "v_6OGTj6",
+      "name": "Rail M-Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "v_6OGTj6",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "xbo_cAvhX-AA",
+          "name": "Magma",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Rail M-Rifle (24\", A1, AP(2), Deadly(3), Magma)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 45
+    },
+    "gains": {
+      "id": "dn0IBXYw",
+      "name": "Missile Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "dn0IBXYw",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        },
+        {
+          "id": "QXyt-zV_bjpg",
+          "name": "Lock-On"
+        }
+      ],
+      "label": "Missile Launcher (30\", A1, AP(2), Deadly(3), Lock-On)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 15
+    },
+    "gains": {
+      "id": "bLVZU4onzi2E",
+      "name": "Medical Training",
+      "type": "ArmyBookRule",
+      "label": "Medical Training",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 20
+    },
+    "gains": {
+      "id": "-1j2EZx5xgvH",
+      "name": "Spectrum Scanner",
+      "type": "ArmyBookRule",
+      "label": "Spectrum Scanner",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Twin Glove-Pistols",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "ionMH2sm",
+      "specialRules": [],
+      "label": "Twin Glove-Pistols (12\", A2)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "id": "oO9-KuPX",
+      "name": "Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "oO9-KuPX",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Iron Pistol (9\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "id": "9wpVsQDZ",
+      "name": "Iron Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 6,
+      "attacks": 2,
+      "weaponId": "9wpVsQDZ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Iron Shotgun (6\", A2, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "id": "dGKJc4Nn",
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Flamer Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 6,
+      "attacks": 1,
+      "weaponId": "agIlKQ_g",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer Pistol (6\", A1, Blast(3), Reliable)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 10
+    },
+    "gains": {
+      "id": "YRPSurpF",
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "YRPSurpF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 15
+    },
+    "gains": {
+      "id": "_xk1JRdU",
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "_xk1JRdU",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Shock Hammer",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "y9l_zdNB",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Shock Hammer (A1, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Axe",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "TTbASknm",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Plasma Axe (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 0
+    },
+    "gains": {
+      "id": "9wpVsQDZ",
+      "name": "Iron Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 6,
+      "attacks": 2,
+      "weaponId": "9wpVsQDZ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Iron Shotgun (6\", A2, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 10
+    },
+    "gains": {
+      "id": "-_T9wTAv",
+      "name": "Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "-_T9wTAv",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 20
+    },
+    "gains": {
+      "id": "rWpAIWbo",
+      "name": "Fusion Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "rWpAIWbo",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Rifle (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Drill M-Platform",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "w4U-ybCA",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "xbo_cAvhX-AA",
+          "name": "Magma",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Drill M-Platform (18\", A1, AP(2), Deadly(3), Magma)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Drill A-Platform",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "yxQBiCF5",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Drill A-Platform (A1, AP(4), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 5
+    },
+    "gains": {
+      "id": null,
+      "name": "Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "oO9-KuPX",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Iron Pistol (9\", A2, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 5
+    },
+    "gains": {
+      "id": "I2oDuUN_",
+      "name": "H-Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "I2oDuUN_",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "H-Pistol (9\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 5
+    },
+    "gains": {
+      "id": "dGKJc4Nn",
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 35
+    },
+    "gains": {
+      "id": "tFsK8C2w",
+      "name": "Storm Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 3,
+      "weaponId": "tFsK8C2w",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Storm Rifle (24\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 5
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Rail M-Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "v_6OGTj6",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "xbo_cAvhX-AA",
+          "name": "Magma",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Rail M-Rifle (24\", A1, AP(2), Deadly(3), Magma)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 35
+    },
+    "gains": {
+      "name": "Plasma Cannon",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "oxyWH0_6",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Plasma Cannon (30\", A1, AP(4), Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Axe",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "TTbASknm",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Plasma Axe (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "YU5gsnS0",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A3, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 30
+    },
+    "gains": {
+      "id": "gJxsLl8L",
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "gJxsLl8L",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A3, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "Hodf3Bu",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Exo-GL",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "yS53yWly",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "9042COVrLCsI",
+          "name": "Limited",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Exo-GL (18\", A1, Blast(3), Limited)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7DfXFg9",
+      "cost": 5
+    },
+    "gains": {
+      "id": "APa19Szm",
+      "name": "C-Beamer",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "APa19Szm",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "8pRrJ5SEBdxM",
+          "name": "Beam",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "C-Beamer (24\", A2, AP(1), Beam)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7DfXFg9",
+      "cost": 5
+    },
+    "gains": {
+      "id": "_OuuPXyd",
+      "name": "Heavy Machinegun",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "_OuuPXyd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Heavy Machinegun (30\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7DfXFg9",
+      "cost": 15
+    },
+    "gains": {
+      "id": "dn0IBXYw",
+      "name": "Missile Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "dn0IBXYw",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        },
+        {
+          "id": "QXyt-zV_bjpg",
+          "name": "Lock-On"
+        }
+      ],
+      "label": "Missile Launcher (30\", A1, AP(2), Deadly(3), Lock-On)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7DfXFg9",
+      "cost": 20
+    },
+    "gains": {
+      "id": "kBBRa1PZ",
+      "name": "Gravity H-Cannon",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 4,
+      "weaponId": "kBBRa1PZ",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Gravity H-Cannon (24\", A4, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7DfXFg9",
+      "cost": 20
+    },
+    "gains": {
+      "id": "FC6vz5VY",
+      "name": "Autocannon",
+      "type": "ArmyBookWeapon",
+      "range": 36,
+      "attacks": 3,
+      "weaponId": "FC6vz5VY",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Autocannon (36\", A3, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "7DfXFg9",
+      "cost": 20
+    },
+    "gains": {
+      "id": "-1j2EZx5xgvH",
+      "name": "Spectrum Scanner",
+      "type": "ArmyBookRule",
+      "label": "Spectrum Scanner",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "L7Cxnmn",
+      "cost": 0
+    },
+    "gains": {
+      "id": "9wpVsQDZ",
+      "name": "Iron Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 6,
+      "attacks": 2,
+      "weaponId": "9wpVsQDZ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Iron Shotgun (6\", A2, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "L7Cxnmn",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Lnlu85A_",
+      "name": "Shotgun",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "Lnlu85A_",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Shotgun (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "L7Cxnmn",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Pioneer",
+      "type": "ArmyBookItem",
+      "label": "Pioneer (Scout)",
+      "content": [
+        {
+          "id": "FAMbscK5vhSu",
+          "name": "Scout",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "nojZ6_b",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Dual Berserker Axes",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 2,
+      "weaponId": "H2RXfpTc",
+      "specialRules": [],
+      "label": "Dual Berserker Axes (A2)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "nojZ6_b",
+      "cost": 20
+    },
+    "gains": {
+      "id": "3efsTZno",
+      "name": "Assault Grenade Launcher",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "3efsTZno",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Assault Grenade Launcher (18\", A1, Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "nojZ6_b",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Cyber-Augments",
+      "type": "ArmyBookItem",
+      "label": "Cyber-Augments (Regeneration)",
+      "content": [
+        {
+          "id": "8KujvrTG8k9p",
+          "name": "Regeneration",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 15
+    },
+    "gains": {
+      "id": "PQAEiBd9",
+      "name": "Iron Blaster",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 2,
+      "weaponId": "PQAEiBd9",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Iron Blaster (18\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 5
+    },
+    "gains": {
+      "id": "9KbQ3D9t",
+      "name": "Heavy Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "9KbQ3D9t",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        },
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heavy Flamer (12\", A1, AP(1), Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 25
+    },
+    "gains": {
+      "id": "APa19Szm",
+      "name": "C-Beamer",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "APa19Szm",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "8pRrJ5SEBdxM",
+          "name": "Beam",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "C-Beamer (24\", A2, AP(1), Beam)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 30
+    },
+    "gains": {
+      "name": "Heavy Fusion Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": 1,
+      "weaponId": "OsDNZJg7",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Heavy Fusion Rifle (18\", A1, AP(4), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 60
+    },
+    "gains": {
+      "id": "oxyWH0_6",
+      "name": "Plasma Cannon",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 1,
+      "weaponId": "oxyWH0_6",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Plasma Cannon (30\", A1, AP(4), Blast(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 15
+    },
+    "gains": {
+      "id": "bLVZU4onzi2E",
+      "name": "Medical Training",
+      "type": "ArmyBookRule",
+      "label": "Medical Training",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 20
+    },
+    "gains": {
+      "id": "-1j2EZx5xgvH",
+      "name": "Spectrum Scanner",
+      "type": "ArmyBookRule",
+      "label": "Spectrum Scanner",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "WbdkmXl",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Fire Ammo",
+      "type": "ArmyBookItem",
+      "label": "Fire Ammo (Magma when Shooting)",
+      "content": [
+        {
+          "id": "jtJeaQ4yJOdG",
+          "name": "Magma when Shooting",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "WbdkmXl",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Ammo",
+      "type": "ArmyBookItem",
+      "label": "Plasma Ammo (Beam when Shooting)",
+      "content": [
+        {
+          "id": "9q1yOOuDz4GD",
+          "name": "Beam when Shooting",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Sgt. Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "1HINdgr0",
+      "specialRules": [],
+      "label": "Sgt. Pistol (12\", A1)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "name": "H-Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "I2oDuUN_",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "H-Pistol (9\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "oO9-KuPX",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Iron Pistol (9\", A2, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "YRPSurpF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "I4NB_Rk",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "_xk1JRdU",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A2, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Sgt. Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "1HINdgr0",
+      "specialRules": [],
+      "label": "Sgt. Pistol (12\", A1)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 5
+    },
+    "gains": {
+      "name": "H-Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "I2oDuUN_",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "H-Pistol (9\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "oO9-KuPX",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 1
+        }
+      ],
+      "label": "Iron Pistol (9\", A2, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "YRPSurpF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEzgxJr",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "_xk1JRdU",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A2, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Sgt. Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "yc8b1D45",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Sgt. Iron Pistol (9\", A2, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 5
+    },
+    "gains": {
+      "name": "H-Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "I2oDuUN_",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "H-Pistol (9\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "YRPSurpF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "BMDQBuG",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "_xk1JRdU",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A2, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Sgt. Iron Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "yc8b1D45",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Sgt. Iron Pistol (9\", A2, AP(1))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 5
+    },
+    "gains": {
+      "name": "H-Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 9,
+      "attacks": 2,
+      "weaponId": "I2oDuUN_",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "H-Pistol (9\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Plasma Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "dGKJc4Nn",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Pistol (12\", A1, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Plasma Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "YRPSurpF",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Plasma Sword (A2, AP(1), Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "cDk2wUI",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Shock Gauntlet",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "_xk1JRdU",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Shock Gauntlet (A2, AP(4))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 15
+    },
+    "gains": {
+      "id": "98cmbiBd",
+      "name": "Rune Master",
+      "type": "ArmyBookItem",
+      "label": "Rune Master (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 35
+    },
+    "gains": {
+      "id": "tlePLcHQ",
+      "name": "Guild Lord",
+      "type": "ArmyBookItem",
+      "label": "Guild Lord (Battle Lore)",
+      "content": [
+        {
+          "id": "odAUWpd6ekL_",
+          "name": "Battle Lore",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "ILXnjbU",
+      "cost": 40
+    },
+    "gains": {
+      "id": "ODVmtUjR",
+      "name": "Engineer",
+      "type": "ArmyBookItem",
+      "label": "Engineer (Repair)",
+      "content": [
+        {
+          "id": "mETdyZ__yMVj",
+          "name": "Repair",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OijrRWq",
+      "cost": 0
+    },
+    "gains": {
+      "name": "CCW",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "83nhlNHF",
+      "specialRules": [],
+      "label": "CCW (A2)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "OijrRWq",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Heavy Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "Y1mylN3-",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "c45Fw0D2oGOk",
+          "name": "Counter",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heavy Spear (A1, AP(1), Counter)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "PmhNMYW",
+      "cost": 0
+    },
+    "gains": {
+      "name": "Heat Axe",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "0YKxqIjt",
+      "specialRules": [
+        {
+          "id": "xbo_cAvhX-AA",
+          "name": "Magma",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heat Axe (A2, Magma)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "PmhNMYW",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Great Heat Hammer",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "1oGOP0n9",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "xbo_cAvhX-AA",
+          "name": "Magma",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Great Heat Hammer (A1, AP(2), Blast(3), Magma)"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[gd_scene load_steps=7 format=3 uid="uid://cfhqqjr6lnf7x"]
+
+[ext_resource type="Script" path="res://src/Menu/Menus.gd" id="1_s8qcu"]
+[ext_resource type="Texture2D" uid="uid://dyhier8r6caxl" path="res://assets/Main_Menu.png" id="2_ovg5c"]
+
+[sub_resource type="Animation" id="Animation_jka3p"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_26po7"]
+resource_name = "fade_in"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_igwwh"]
+resource_name = "fade_out"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_7dh7j"]
+_data = {
+"RESET": SubResource("Animation_jka3p"),
+"fade_in": SubResource("Animation_26po7"),
+"fade_out": SubResource("Animation_igwwh")
+}
+
+[node name="SinglePlayerChooseMode" type="Node2D"]
+
+[node name="PickGamemode" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_s8qcu")
+
+[node name="MainSprite" type="Sprite2D" parent="PickGamemode"]
+position = Vector2(960, 540)
+scale = Vector2(1.439, 1.433)
+texture = ExtResource("2_ovg5c")
+
+[node name="ColorRect" type="ColorRect" parent="PickGamemode"]
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+color = Color(0, 0, 0, 1)
+
+[node name="PlayAgainstAI" type="Button" parent="PickGamemode"]
+layout_mode = 0
+offset_left = 822.0
+offset_top = 503.0
+offset_right = 1097.0
+offset_bottom = 578.0
+text = "Play Against AI"
+
+[node name="GamemodeBack" type="Button" parent="PickGamemode"]
+layout_mode = 0
+offset_left = 1280.0
+offset_top = 905.0
+offset_right = 1555.0
+offset_bottom = 980.0
+text = "Back"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="PickGamemode"]
+libraries = {
+"": SubResource("AnimationLibrary_7dh7j")
+}
+
+[connection signal="pressed" from="PickGamemode/PlayAgainstAI" to="PickGamemode" method="_on_ai_mode_pressed"]
+[connection signal="pressed" from="PickGamemode/GamemodeBack" to="PickGamemode" method="_on_gamemode_back_pressed"]

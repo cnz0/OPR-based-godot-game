@@ -1,0 +1,327 @@
+Units:
+{"id": "46SlFZLb0", "cost": 55, "name": "Champion of Lust", "size": 1, "sync": {"unitId": "E0VMxeY", "syncAutomatic": true, "parentArmyBookId": "CuyCCyZTIHo5rc0Z"}, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "aCqB1wHimxyc", "name": "Overload", "additional": false, "label": "Overload"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "6zOgh", "name": "Blade", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "oNRSy-Dm", "specialRules": [], "label": "Blade (A1)", "originalCount": 1}, {"id": "dNx3HWV7", "name": "Ritual Hammer", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "Bd0ZnobX", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}], "label": "Ritual Hammer (A1, Blast(3))", "originalCount": 1}], "upgrades": ["gwQ59"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "oJkDvTVkl", "cost": 15, "name": "Lust Fury", "size": 1, "sync": {"unitId": "57apip-", "syncAutomatic": true, "parentArmyBookId": "CuyCCyZTIHo5rc0Z"}, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "aCqB1wHimxyc", "name": "Overload", "additional": false, "label": "Overload"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "whgSlbny", "name": "Armblade", "type": "ArmyBookWeapon", "count": 1, "attacks": 2, "weaponId": "whgSlbny", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Armblade (A2, AP(1))", "originalCount": 1}], "upgrades": ["ZGnOB"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "iLm-1lf9E", "cost": 25, "name": "Lust Beast Rider", "size": 1, "sync": {"unitId": "MMUtjgY", "syncAutomatic": true, "parentArmyBookId": "CuyCCyZTIHo5rc0Z"}, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "aCqB1wHimxyc", "name": "Overload", "additional": false, "label": "Overload"}, {"id": "IwJytid5UfwX", "name": "Very Fast", "label": "Very Fast"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "YrBrDBs3", "name": "Hand Weapon", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "SWnfRBdJ", "specialRules": [], "label": "Hand Weapon (A1)", "count": 1, "originalCount": 1}, {"id": "jzvz99QX", "name": "Toxin Claws", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "Tb-hqdkn", "specialRules": [{"type": "ArmyBookRule", "id": "Naqc5mga9Uha", "name": "Poison", "label": "Poison"}], "label": "Toxin Claws (A1, Poison)", "count": 1, "originalCount": 1}], "upgrades": ["E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "5iOtr5lvQ", "cost": 45, "name": "Lust Warriors", "size": 3, "sync": {"unitId": "a2FywBB", "syncAutomatic": true, "parentArmyBookId": "CuyCCyZTIHo5rc0Z"}, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "aCqB1wHimxyc", "name": "Overload", "additional": false, "label": "Overload"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "YrBrDBs3", "name": "Hand Weapon", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "SWnfRBdJ", "specialRules": [], "label": "Hand Weapon (A1)", "count": 3, "originalCount": 3}], "upgrades": ["E1", "F1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Blade",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "oNRSy-Dm",
+      "specialRules": [],
+      "label": "Blade (A1)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 15
+    },
+    "gains": {
+      "id": null,
+      "name": "Ritual Blade",
+      "type": "ArmyBookWeapon",
+      "count": "02",
+      "attacks": 2,
+      "weaponId": "dNx3HWV7",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "2x Ritual Blade (A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 15
+    },
+    "gains": {
+      "id": null,
+      "name": "Crossbow",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 4,
+      "weaponId": "UKiLVM5c",
+      "specialRules": [],
+      "label": "Crossbow (12\", A4)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Ritual Gauntlet",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "UwmfEceV",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Ritual Gauntlet (A2, AP(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 5
+    },
+    "gains": {
+      "id": "cnaB8TVxQsS8",
+      "name": "Blessing of Lust",
+      "type": "ArmyBookRule",
+      "label": "Blessing of Lust",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 15
+    },
+    "gains": {
+      "id": "_TS6QgIwZ-YZ",
+      "name": "Symbol of Lust",
+      "type": "ArmyBookRule",
+      "rating": 1,
+      "label": "Symbol of Lust(1)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 25
+    },
+    "gains": {
+      "id": "47CAqf7ySlfc",
+      "name": "Caster",
+      "type": "ArmyBookRule",
+      "modify": true,
+      "rating": 2,
+      "label": "Caster(2)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "46SlFZLb0",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Lust Beast",
+      "type": "ArmyBookItem",
+      "bases": {
+        "round": "60x35",
+        "square": "50x25"
+      },
+      "label": "Lust Beast (Toxin Claws (A1, Poison), Speed Boost)",
+      "content": [
+        {
+          "name": "Toxin Claws",
+          "type": "ArmyBookWeapon",
+          "count": 1,
+          "range": 0,
+          "attacks": 1,
+          "weaponId": "Tb-hqdkn",
+          "specialRules": [
+            {
+              "id": "Naqc5mga9Uha",
+              "name": "Poison",
+              "type": "ArmyBookRule"
+            }
+          ],
+          "label": "Toxin Claws (A1, Poison)"
+        },
+        {
+          "id": "W-qqQeySXVYc",
+          "name": "Speed Boost",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "oJkDvTVkl",
+      "cost": 5
+    },
+    "gains": {
+      "id": "Ub2Vm5jj",
+      "name": "Rending Claws",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "Lsw6qhTR",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Rending Claws (A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "iLm-1lf9E",
+      "cost": 5
+    },
+    "gains": {
+      "id": "8HWdOwMYcI0p",
+      "name": "Sergeant",
+      "type": "ArmyBookRule",
+      "label": "Sergeant",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "iLm-1lf9E",
+      "cost": 5
+    },
+    "gains": {
+      "id": "qrG_DXJez5Dg",
+      "name": "Musician",
+      "type": "ArmyBookRule",
+      "label": "Musician",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "iLm-1lf9E",
+      "cost": 10
+    },
+    "gains": {
+      "id": "ywXKQKPOLjTF",
+      "name": "Banner",
+      "type": "ArmyBookRule",
+      "label": "Banner",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "5iOtr5lvQ",
+      "cost": 10
+    },
+    "gains": {
+      "id": "GF1pHcFT",
+      "name": "Halberd",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "FAJTKq11",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Halberd (A1, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "5iOtr5lvQ",
+      "cost": 15
+    },
+    "gains": {
+      "id": "gSseNNtj",
+      "name": "Great Weapon",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "uDtOR3Iw",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        }
+      ],
+      "label": "Great Weapon (A1, AP(2))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "5iOtr5lvQ",
+      "cost": 15
+    },
+    "gains": {
+      "id": "WyjyXsZg",
+      "name": "Spear",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "nXIDrB4U",
+      "specialRules": [
+        {
+          "id": "c45Fw0D2oGOk",
+          "name": "Counter",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Spear (A1, Counter)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "5iOtr5lvQ",
+      "cost": 15
+    },
+    "gains": {
+      "id": "2ayEDk9T",
+      "name": "Dual Hand Weapons",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "5v1RRIKQ",
+      "specialRules": [],
+      "label": "Dual Hand Weapons (A2)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "5iOtr5lvQ",
+      "cost": 5
+    },
+    "gains": {
+      "id": "-vn9ejYXGTVU",
+      "name": "Banner of Lust",
+      "type": "ArmyBookRule",
+      "label": "Banner of Lust",
+      "count": 1
+    }
+  }
+]

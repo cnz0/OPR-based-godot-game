@@ -1,0 +1,885 @@
+Units:
+{"id": "lcEWPMS", "cost": 55, "name": "Robot Lord", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [{"id": "waly4", "name": "Combat Shield", "type": "ArmyBookItem", "bases": null, "content": [{"id": "wsqfB0fq69eG", "name": "Shield Wall", "type": "ArmyBookRule"}], "count": 1}], "rules": [{"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "_g6MjuFl", "name": "CCW", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "originalCount": 1}], "upgrades": ["A1", "B1", "C1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "PkAB3lE", "cost": 80, "name": "Echo-3G01", "size": 1, "type": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "47CAqf7ySlfc", "name": "Caster", "rating": 1, "label": "Caster(1)"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "TpyBi5Rhkkac", "name": "Paradox Shielding Device", "label": "Paradox Shielding Device"}, {"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "rqBYj1yANC3J", "name": "Unique", "label": "Unique"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "_g6MjuFl", "name": "Panoptic Staff", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": "3", "weaponId": "Lgh0Ltf6", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Panoptic Staff (A3, Rending)", "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "xVuwyHf", "cost": 25, "name": "Guardian", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "Kt3r-Af8", "name": "Atom-Caster", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "Kt3r-Af8", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Atom-Caster (12\", A1, AP(1))", "count": 1, "originalCount": 1}, {"id": "fawDhnUj", "name": "Void Blade", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": "2", "weaponId": "s8nfaQY3", "specialRules": [], "label": "Void Blade (A2)", "originalCount": 1}], "upgrades": ["G1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "njiIkJi", "cost": 25, "name": "Warrior", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "OaYz4pdg", "name": "Reaper Rifle", "type": "ArmyBookWeapon", "count": 1, "range": 18, "attacks": 1, "weaponId": "YsdNdfjc", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}], "label": "Reaper Rifle (18\", A1, AP(2))", "originalCount": 1}, {"id": "_WpwGRUk", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "6q8HvOZ", "cost": 30, "name": "Flesh-Eater", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}, {"id": "djJahpu0Ciut", "name": "Tunneller", "label": "Tunneller"}], "valid": true, "defense": 4, "quality": 3, "weapons": [{"id": "Q47Qlon8", "name": "Metal Claws", "type": "ArmyBookWeapon", "attacks": 2, "weaponId": "Q47Qlon8", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}], "label": "Metal Claws (A2, AP(1))", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "yoeQi4m", "cost": 35, "name": "Bot Swarm", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 6, "quality": 6, "weapons": [{"id": "DvYpHLlf", "name": "Swarm Attack", "type": "ArmyBookWeapon", "range": 0, "attacks": 3, "weaponId": "bUQRotbI", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "Swarm Attack (A3, Rending)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "wvgi7_R", "cost": 35, "name": "Eternal", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 2, "quality": 3, "weapons": [{"id": "dT086NsK", "name": "Flux Carbine", "type": "ArmyBookWeapon", "count": 1, "range": 18, "attacks": 2, "weaponId": "dT086NsK", "specialRules": [{"type": "ArmyBookRule", "id": "5v6oaGfrdf29", "name": "Flux", "label": "Flux"}], "label": "Flux Carbine (18\", A2, Flux)", "originalCount": 1}, {"id": "_WpwGRUk", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["F1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "mEX6i0s", "cost": 35, "name": "Sniper", "size": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "Ldhtmr4H8b6G", "name": "Slow", "label": "Slow"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "z9hK3MW4", "name": "D-Mark", "type": "ArmyBookWeapon", "range": 24, "attacks": 1, "weaponId": "z9hK3MW4", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "Zx4mWN0SbmK8", "name": "Reliable", "label": "Reliable"}], "label": "D-Mark (24\", A1, AP(1), Reliable)", "count": 1, "originalCount": 1}, {"id": "_WpwGRUk", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 1, "weaponId": "4o5CBBZC", "specialRules": [], "label": "CCW (A1)", "count": 1, "originalCount": 1}], "upgrades": ["H1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "0x2SCtg", "cost": 65, "name": "Robot Snake", "size": 1, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "IeCvRQZ2", "name": "Metal Fangs", "type": "ArmyBookWeapon", "count": 2, "attacks": 2, "weaponId": "IeCvRQZ2", "specialRules": [{"type": "ArmyBookRule", "id": "cavWDboL4ubs", "name": "Rending", "label": "Rending"}], "label": "2x Metal Fangs (A2, Rending)", "originalCount": 2}], "upgrades": ["J1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "yhG8aeu", "cost": 85, "name": "Hover Bike", "size": 1, "bases": {"round": "60x35", "square": "50x25"}, "items": [], "rules": [{"id": "KdgwlPb8LuD2", "name": "Fast", "additional": false, "label": "Fast"}, {"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "_FPCvoHf", "name": "Rapid Flux Carbine", "type": "ArmyBookWeapon", "count": 1, "range": 18, "attacks": 4, "weaponId": "HClyzZfI", "specialRules": [{"type": "ArmyBookRule", "id": "5v6oaGfrdf29", "name": "Flux", "label": "Flux"}], "label": "Rapid Flux Carbine (18\", A4, Flux)", "originalCount": 1}, {"id": "drxT9SeL", "name": "CCW", "type": "ArmyBookWeapon", "range": 0, "attacks": 2, "weaponId": "83nhlNHF", "specialRules": [], "label": "CCW (A2)", "count": 1, "originalCount": 1}], "upgrades": ["I1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "XgJtpyh", "cost": 90, "name": "Tri-Scorpion", "size": 1, "bases": {"round": "50", "square": "40"}, "items": [], "rules": [{"id": "hR8IoOxeKnLp", "name": "Robot", "label": "Robot"}, {"id": "AlIZbh-afBYi", "name": "Self-Repair", "label": "Self-Repair"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 3, "quality": 3, "weapons": [{"id": "NkTvh2sj", "name": "Dual Reaper Blade", "type": "ArmyBookWeapon", "attacks": 4, "weaponId": "NkTvh2sj", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}], "label": "Dual Reaper Blade (A4, AP(2))", "count": 1, "originalCount": 1}], "upgrades": ["K1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 30
+    },
+    "gains": {
+      "id": "fTajBYhr",
+      "name": "Staff-Shots",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 3,
+      "weaponId": "fTajBYhr",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Staff-Shots (12\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 10
+    },
+    "gains": {
+      "id": null,
+      "name": "Lord Gauss Pistol",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "_g6MjuFl",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Lord Gauss Pistol (12\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 15
+    },
+    "gains": {
+      "id": "5_JlJ0ib",
+      "name": "Wrist-Flamer",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "5_JlJ0ib",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Wrist-Flamer (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 20
+    },
+    "gains": {
+      "id": "bkr9qjaI",
+      "name": "Wrist-Plasma",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "bkr9qjaI",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Wrist-Plasma (24\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Void Sword",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "fawDhnUj",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "rating": 3
+        }
+      ],
+      "label": "Void Sword (A1, Blast(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Doom Scythe",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "pXpPRsrJ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Doom Scythe (A1, AP(2), Deadly(3))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 20
+    },
+    "gains": {
+      "id": "M4hR0tyA",
+      "name": "Hyper Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "M4hR0tyA",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hyper Sword (A3, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 30
+    },
+    "gains": {
+      "id": "BU9XHzCZ",
+      "name": "Phase Glaive",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 3,
+      "weaponId": "BU9XHzCZ",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Phase Glaive (A3, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Lord Gauss Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": "2",
+      "weaponId": "TUtXJKBJ",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Lord Gauss Rifle (24\", A2, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Lord Reaper Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 18,
+      "attacks": "2",
+      "weaponId": "4pJO1fKc",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "Lord Reaper Rifle (18\", A2, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 45
+    },
+    "gains": {
+      "id": "9Sr3BOVN",
+      "name": "Advanced Gauss Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 18,
+      "attacks": 4,
+      "weaponId": "9Sr3BOVN",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Advanced Gauss Rifle (18\", A4, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Pet Technoaide",
+      "type": "ArmyBookItem",
+      "label": "Pet Technoaide (Warning Cry)",
+      "content": [
+        {
+          "id": "C6MzEy1CnxTs",
+          "name": "Warning Cry",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 25
+    },
+    "gains": {
+      "name": "Jetpack",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Jetpack (Ambush, Flying, Swift)",
+      "content": [
+        {
+          "id": "6mJw5IdqSqNC",
+          "name": "Ambush",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "-QJdqJEKjIpE",
+          "name": "Flying",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "leFm23MTiJxO",
+          "name": "Swift",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Psychomancer",
+      "type": "ArmyBookItem",
+      "label": "Psychomancer (Gloom-Protocol)",
+      "content": [
+        {
+          "id": "tFIv-8UscOMm",
+          "name": "Gloom-Protocol",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Chronomancer",
+      "type": "ArmyBookItem",
+      "label": "Chronomancer (Shadow-Protocol)",
+      "content": [
+        {
+          "id": "FWEooNV3A01C",
+          "name": "Shadow-Protocol",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Overseer",
+      "type": "ArmyBookItem",
+      "label": "Overseer (Royal March)",
+      "content": [
+        {
+          "id": "4TuYQKX2Ss0S",
+          "name": "Royal March",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 15
+    },
+    "gains": {
+      "name": "Warden",
+      "type": "ArmyBookItem",
+      "label": "Warden (Regen-Protocol)",
+      "content": [
+        {
+          "id": "wF35XZ2faHCI",
+          "name": "Regen-Protocol",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "lcEWPMS",
+      "cost": 20
+    },
+    "gains": {
+      "name": "Technomancer",
+      "type": "ArmyBookItem",
+      "label": "Technomancer (Caster(2))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "njiIkJi",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Gauss Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "OaYz4pdg",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Gauss Rifle (24\", A1, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "njiIkJi",
+      "cost": 10
+    },
+    "gains": {
+      "id": "UETkj-z7",
+      "name": "Flame Caster",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "UETkj-z7",
+      "specialRules": [
+        {
+          "id": "w_vX0mi58KKt",
+          "name": "Blast",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "Zx4mWN0SbmK8",
+          "name": "Reliable",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Flame Caster (12\", A1, Blast(3), Reliable)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "njiIkJi",
+      "cost": 10
+    },
+    "gains": {
+      "id": "y8kuZVch",
+      "name": "Plasma Caster",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 1,
+      "weaponId": "y8kuZVch",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        }
+      ],
+      "label": "Plasma Caster (24\", A1, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "njiIkJi",
+      "cost": 15
+    },
+    "gains": {
+      "id": "KJQQGEte",
+      "name": "Fusion Caster",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 1,
+      "weaponId": "KJQQGEte",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "rating": 3
+        }
+      ],
+      "label": "Fusion Caster (12\", A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "njiIkJi",
+      "cost": 50
+    },
+    "gains": {
+      "id": "2K84_Tzd",
+      "name": "Ray Caster",
+      "type": "ArmyBookWeapon",
+      "range": 30,
+      "attacks": 3,
+      "weaponId": "2K84_Tzd",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "QXyt-zV_bjpg",
+          "name": "Lock-On",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Ray Caster (30\", A3, AP(2), Lock-On)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "wvgi7_R",
+      "cost": 15
+    },
+    "gains": {
+      "id": "K4rAVsIQ",
+      "name": "Heavy Gauss Rifle",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 2,
+      "weaponId": "K4rAVsIQ",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Heavy Gauss Rifle (24\", A2, Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xVuwyHf",
+      "cost": 5
+    },
+    "gains": {
+      "name": "War Scythe",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": "2",
+      "weaponId": "NIhE74y3",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        }
+      ],
+      "label": "War Scythe (A2, AP(2))"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xVuwyHf",
+      "cost": 5
+    },
+    "gains": {
+      "id": "vgOti1Wj",
+      "name": "Rod-Shots",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "vgOti1Wj",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Rod-Shots (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xVuwyHf",
+      "cost": 5
+    },
+    "gains": {
+      "id": "vWiXN7e7",
+      "name": "Hyper Sword",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "vWiXN7e7",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Hyper Sword (A2, AP(1), Rending)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xVuwyHf",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Jetpacks",
+      "type": "ArmyBookItem",
+      "bases": null,
+      "label": "Jetpacks (Ambush, Flying, Swift)",
+      "content": [
+        {
+          "id": "6mJw5IdqSqNC",
+          "name": "Ambush",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "-QJdqJEKjIpE",
+          "name": "Flying",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "leFm23MTiJxO",
+          "name": "Swift",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "mEX6i0s",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Hyperspace Reapers",
+      "type": "ArmyBookItem",
+      "label": "Hyperspace Reapers (Hunter)",
+      "content": [
+        {
+          "id": "CCShas9-9K4N",
+          "name": "Hunter",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "yhG8aeu",
+      "cost": 5
+    },
+    "gains": {
+      "id": "oGqW8rAE",
+      "name": "Atom-Beamer",
+      "type": "ArmyBookWeapon",
+      "range": 24,
+      "attacks": 3,
+      "weaponId": "oGqW8rAE",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Atom-Beamer (24\", A3, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "yhG8aeu",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Rapid Gauss Rifle",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 24,
+      "attacks": 3,
+      "weaponId": "_FPCvoHf",
+      "specialRules": [
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Rapid Gauss Rifle (24\", A3, Rending)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "0x2SCtg",
+      "cost": 0
+    },
+    "gains": {
+      "id": "V8S3dOIx",
+      "name": "Twin Atom-Caster",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "V8S3dOIx",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        }
+      ],
+      "label": "Twin Atom-Caster (12\", A2, AP(1))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "0x2SCtg",
+      "cost": 5
+    },
+    "gains": {
+      "id": "sDMBIC-P",
+      "name": "Whip Coil",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "sDMBIC-P",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Whip Coil (A1, AP(2), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "0x2SCtg",
+      "cost": 10
+    },
+    "gains": {
+      "id": "x8GgOI38",
+      "name": "Death Gaze",
+      "type": "ArmyBookWeapon",
+      "range": 12,
+      "attacks": 2,
+      "weaponId": "x8GgOI38",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        }
+      ],
+      "label": "Death Gaze (12\", A2, AP(4))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XgJtpyh",
+      "cost": -5
+    },
+    "gains": {
+      "id": "re7afFw-",
+      "name": "Heavy Reaper Blade",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "re7afFw-",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 4
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Heavy Reaper Blade (A1, AP(4), Deadly(3))",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "XgJtpyh",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Plasmabot",
+      "type": "ArmyBookItem",
+      "label": "Plasmabot (Rending in Melee)",
+      "content": [
+        {
+          "id": "9XKGY848ZScT",
+          "name": "Rending in Melee",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "count": 1
+    }
+  }
+]

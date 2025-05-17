@@ -1,0 +1,162 @@
+Unit Name: Shadow Leader
+Count: 2
+Name: Shadow Leader
+Cost: 40
+Defense: 5
+Quality: 4
+Rules:
+- Hero
+- Stealth
+- Tough(3)
+
+Weapons:
+- Heavy Pistol (12", A1, AP(1))
+- CCW (A2)
+
+-------------------
+Unit Name: Shadow Champion
+Count: 0
+Name: Shadow Champion
+Cost: 30
+Defense: 5
+Quality: 5
+Rules:
+- Hero
+- Stealth
+- Tough(3)
+
+Weapons:
+- Pistol (12", A1)
+- CCW (A2)
+
+-------------------
+Unit Name: Shadow Night-Ghost
+Count: 0
+Name: Shadow Night-Ghost
+Cost: 20
+Defense: 5
+Quality: 4
+Rules:
+- Stealth
+- Teleport
+
+Weapons:
+- 2x CCWS (A1)
+
+-------------------
+Unit Name: Shadow Veteran Gunner
+Count: 0
+Name: Shadow Veteran Gunner
+Cost: 20
+Defense: 5
+Quality: 4
+Rules:
+- Stealth
+
+Weapons:
+- Heavy Rifle (24", A1, AP(1))
+- CCW (A1)
+
+-------------------
+Unit Name: Shadow Fighters
+Count: 2
+Name: Shadow Fighters
+Cost: 30
+Defense: 5
+Quality: 5
+Rules:
+- Stealth
+
+Weapons:
+- 2x CCW (A1)
+
+-------------------
+Unit Name: Shadow Cyber-Tentacle
+Count: 0
+Name: Shadow Cyber-Tentacle
+Cost: 40
+Defense: 5
+Quality: 5
+Rules:
+- Ambush
+- Stealth
+- Tough(3)
+
+Weapons:
+- Rending Claws (A3, Rending)
+
+-------------------
+Unit Name: Shadow Gunners
+Count: 0
+Name: Shadow Gunners
+Cost: 40
+Defense: 5
+Quality: 5
+Rules:
+- Stealth
+
+Weapons:
+- Rifle (24", A1)
+- CCW (A1)
+
+-------------------
+Unit Name: Shadow Veteran Fighters
+Count: 0
+Name: Shadow Veteran Fighters
+Cost: 40
+Defense: 5
+Quality: 4
+Rules:
+- Stealth
+
+Weapons:
+- 2x CCW (A1)
+
+-------------------
+Unit Name: Shadow Night-Ghouls
+Count: 0
+Name: Shadow Night-Ghouls
+Cost: 45
+Defense: 5
+Quality: 4
+Rules:
+- Stealth
+- Strider
+
+Weapons:
+- 2x CCW (A1)
+
+-------------------
+Unit Name: Shadow Squid-Biker
+Count: 0
+Name: Shadow Squid-Biker
+Cost: 45
+Defense: 5
+Quality: 4
+Rules:
+- Fast
+- Stealth
+- Strider
+- Tough(3)
+
+Weapons:
+- Pistol (12", A1)
+- Hand Weapon (A2)
+
+-------------------
+Unit Name: Shadow Cyber-Squid
+Count: 0
+Name: Shadow Cyber-Squid
+Cost: 60
+Defense: 4
+Quality: 4
+Rules:
+- Stealth
+- Strider
+- Tough(3)
+
+Weapons:
+- Psy-Blast (18", A1, Blast(3))
+- Heavy Claws (A2, AP(1))
+
+-------------------

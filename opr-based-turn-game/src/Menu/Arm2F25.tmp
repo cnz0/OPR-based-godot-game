@@ -1,0 +1,347 @@
+[gd_scene load_steps=9 format=3 uid="uid://cp0mc0lbrbmeg"]
+
+[ext_resource type="Script" path="res://src/Menu/Menus.gd" id="1_ninfi"]
+[ext_resource type="Texture2D" uid="uid://dyhier8r6caxl" path="res://assets/Main_Menu.png" id="2_6moiw"]
+[ext_resource type="Script" path="res://src/Game/Army_Builder.gd" id="3_6qwo0"]
+[ext_resource type="Texture2D" uid="uid://dnh780s8e0ysq" path="res://assets/Small_Menu.png" id="3_q0stq"]
+
+[sub_resource type="Animation" id="Animation_jka3p"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_26po7"]
+resource_name = "fade_in"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_igwwh"]
+resource_name = "fade_out"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("ColorRect:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 1), Color(0, 0, 0, 0)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_7dh7j"]
+_data = {
+"RESET": SubResource("Animation_jka3p"),
+"fade_in": SubResource("Animation_26po7"),
+"fade_out": SubResource("Animation_igwwh")
+}
+
+[node name="ArmyBuilderMenu" type="Node2D"]
+
+[node name="ArmyBuilderMenu" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+mouse_filter = 2
+script = ExtResource("1_ninfi")
+
+[node name="MainSprite" type="Sprite2D" parent="ArmyBuilderMenu"]
+position = Vector2(960, 540)
+scale = Vector2(1.439, 1.433)
+texture = ExtResource("2_6moiw")
+
+[node name="ColorRect" type="ColorRect" parent="ArmyBuilderMenu"]
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+color = Color(0, 0, 0, 1)
+
+[node name="Players" type="Button" parent="ArmyBuilderMenu"]
+layout_mode = 0
+offset_left = 860.0
+offset_top = 200.0
+offset_right = 1135.0
+offset_bottom = 275.0
+text = "Players"
+
+[node name="StartGame" type="Button" parent="ArmyBuilderMenu"]
+layout_mode = 0
+offset_left = 860.0
+offset_top = 500.0
+offset_right = 1135.0
+offset_bottom = 575.0
+disabled = true
+text = "Start Game"
+
+[node name="ArmyBuilderBack" type="Button" parent="ArmyBuilderMenu"]
+layout_mode = 0
+offset_left = 1280.0
+offset_top = 905.0
+offset_right = 1555.0
+offset_bottom = 980.0
+text = "Back"
+
+[node name="Armies" type="Button" parent="ArmyBuilderMenu"]
+layout_mode = 0
+offset_left = 860.0
+offset_top = 350.0
+offset_right = 1135.0
+offset_bottom = 425.0
+text = "Armies"
+
+[node name="PickPlayer" type="ColorRect" parent="ArmyBuilderMenu/Armies"]
+visible = false
+layout_mode = 0
+offset_left = -620.0
+offset_top = -215.0
+offset_right = 820.0
+offset_bottom = 595.0
+
+[node name="SideSprite" type="Sprite2D" parent="ArmyBuilderMenu/Armies/PickPlayer"]
+modulate = Color(0.501961, 0.501961, 0.501961, 1)
+position = Vector2(720, 405)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("3_q0stq")
+
+[node name="PlayerOne" type="Button" parent="ArmyBuilderMenu/Armies/PickPlayer"]
+offset_left = 865.0
+offset_top = 373.0
+offset_right = 1140.0
+offset_bottom = 448.0
+text = "Player 2 Army"
+
+[node name="PlayerTwo" type="Button" parent="ArmyBuilderMenu/Armies/PickPlayer"]
+offset_left = 300.0
+offset_top = 373.0
+offset_right = 575.0
+offset_bottom = 448.0
+text = "Player 1 Army"
+
+[node name="Back" type="Button" parent="ArmyBuilderMenu/Armies/PickPlayer"]
+offset_left = 583.0
+offset_top = 600.0
+offset_right = 858.0
+offset_bottom = 675.0
+text = "Back"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="ArmyBuilderMenu"]
+libraries = {
+"": SubResource("AnimationLibrary_7dh7j")
+}
+
+[node name="ArmyBuilder" type="ColorRect" parent="ArmyBuilderMenu"]
+visible = false
+layout_mode = 0
+offset_left = 240.0
+offset_top = 135.0
+offset_right = 1680.0
+offset_bottom = 945.0
+color = Color(1, 1, 1, 0.309804)
+script = ExtResource("3_6qwo0")
+
+[node name="SideSprite" type="Sprite2D" parent="ArmyBuilderMenu/ArmyBuilder"]
+modulate = Color(0.501961, 0.501961, 0.501961, 1)
+position = Vector2(720, 405)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("3_q0stq")
+
+[node name="ArmyBuilderConfirm" type="Button" parent="ArmyBuilderMenu/ArmyBuilder"]
+layout_mode = 0
+offset_left = 1085.0
+offset_top = 665.0
+offset_right = 1360.0
+offset_bottom = 740.0
+text = "Confirm"
+
+[node name="OptionButton" type="OptionButton" parent="ArmyBuilderMenu/ArmyBuilder"]
+layout_mode = 0
+offset_left = 140.0
+offset_top = 20.0
+offset_right = 415.0
+offset_bottom = 95.0
+tooltip_text = "Choose Army for first player"
+button_mask = 3
+
+[node name="OptionButton2" type="OptionButton" parent="ArmyBuilderMenu/ArmyBuilder"]
+layout_mode = 0
+offset_left = 140.0
+offset_top = 135.0
+offset_right = 415.0
+offset_bottom = 210.0
+tooltip_text = "Choose Army for second player"
+button_mask = 3
+
+[node name="Label" type="Label" parent="ArmyBuilderMenu/ArmyBuilder"]
+modulate = Color(0.156863, 0.156863, 0.156863, 1)
+layout_mode = 0
+offset_left = 10.0
+offset_top = 40.0
+offset_right = 130.0
+offset_bottom = 70.0
+text = "Player 1 army:"
+
+[node name="Label2" type="Label" parent="ArmyBuilderMenu/ArmyBuilder"]
+modulate = Color(0.158472, 0.158472, 0.158472, 1)
+layout_mode = 0
+offset_left = 10.0
+offset_top = 155.0
+offset_right = 130.0
+offset_bottom = 185.0
+text = "Player 2 army:"
+
+[node name="PlayerConfigConfirm" type="Button" parent="ArmyBuilderMenu/ArmyBuilder"]
+layout_mode = 0
+offset_left = 1085.0
+offset_top = 665.0
+offset_right = 1360.0
+offset_bottom = 740.0
+text = "Confirm"
+
+[node name="EditArmy" type="Button" parent="ArmyBuilderMenu/ArmyBuilder"]
+layout_mode = 0
+offset_left = 435.0
+offset_top = 20.0
+offset_right = 585.0
+offset_bottom = 95.0
+disabled = true
+text = "Build Army"
+
+[node name="EditArmy2" type="Button" parent="ArmyBuilderMenu/ArmyBuilder"]
+layout_mode = 0
+offset_left = 435.0
+offset_top = 135.0
+offset_right = 585.0
+offset_bottom = 210.0
+disabled = true
+text = "Build Army"
+
+[node name="ArmyMenu" type="ColorRect" parent="ArmyBuilderMenu/ArmyBuilder"]
+visible = false
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="SideSprite" type="Sprite2D" parent="ArmyBuilderMenu/ArmyBuilder/ArmyMenu"]
+modulate = Color(0.501961, 0.501961, 0.501961, 1)
+position = Vector2(720, 405)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("3_q0stq")
+
+[node name="PlayerConfigConfirm" type="Button" parent="ArmyBuilderMenu/ArmyBuilder/ArmyMenu"]
+layout_mode = 0
+offset_left = 1085.0
+offset_top = 665.0
+offset_right = 1360.0
+offset_bottom = 740.0
+text = "Confirm"
+
+[node name="ArmyMenu2" type="ColorRect" parent="ArmyBuilderMenu/ArmyBuilder"]
+visible = false
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="SideSprite" type="Sprite2D" parent="ArmyBuilderMenu/ArmyBuilder/ArmyMenu2"]
+modulate = Color(0.501961, 0.501961, 0.501961, 1)
+position = Vector2(720, 405)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("3_q0stq")
+
+[node name="PlayerConfigConfirm" type="Button" parent="ArmyBuilderMenu/ArmyBuilder/ArmyMenu2"]
+layout_mode = 0
+offset_left = 1085.0
+offset_top = 665.0
+offset_right = 1360.0
+offset_bottom = 740.0
+text = "Confirm"
+
+[node name="PlayerConfig" type="ColorRect" parent="ArmyBuilderMenu"]
+visible = false
+layout_mode = 0
+offset_left = 240.0
+offset_top = 135.0
+offset_right = 1680.0
+offset_bottom = 945.0
+color = Color(1, 1, 1, 0)
+
+[node name="SideSprite" type="Sprite2D" parent="ArmyBuilderMenu/PlayerConfig"]
+modulate = Color(0.501961, 0.501961, 0.501961, 1)
+position = Vector2(720, 405)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("3_q0stq")
+
+[node name="PlayerConfigConfirm" type="Button" parent="ArmyBuilderMenu/PlayerConfig"]
+layout_mode = 0
+offset_left = 1085.0
+offset_top = 665.0
+offset_right = 1360.0
+offset_bottom = 740.0
+text = "Confirm"
+
+[node name="LineEdit" type="LineEdit" parent="ArmyBuilderMenu/PlayerConfig"]
+layout_mode = 0
+offset_left = 20.0
+offset_top = 20.0
+offset_right = 356.0
+offset_bottom = 104.0
+placeholder_text = "Enter your nickname"
+alignment = 1
+
+[node name="LineEdit2" type="LineEdit" parent="ArmyBuilderMenu/PlayerConfig"]
+layout_mode = 0
+offset_left = 20.0
+offset_top = 124.0
+offset_right = 356.0
+offset_bottom = 208.0
+placeholder_text = "Enter your nickname"
+alignment = 1
+
+[node name="ColorPicker" type="ColorPicker" parent="ArmyBuilderMenu/PlayerConfig"]
+visible = false
+layout_mode = 0
+offset_left = 751.0
+offset_top = 21.0
+offset_right = 1049.0
+offset_bottom = 597.0
+
+[connection signal="pressed" from="ArmyBuilderMenu/Players" to="ArmyBuilderMenu" method="_on_players_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/StartGame" to="ArmyBuilderMenu" method="_on_start_game_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilderBack" to="ArmyBuilderMenu" method="_on_army_builder_back_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/Armies" to="ArmyBuilderMenu" method="_on_armies_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/Armies/PickPlayer/PlayerOne" to="ArmyBuilderMenu" method="_on_player_one_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/Armies/PickPlayer/PlayerTwo" to="ArmyBuilderMenu" method="_on_player_two_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/Armies/PickPlayer/Back" to="ArmyBuilderMenu" method="_on_choose_player_back_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilder/ArmyBuilderConfirm" to="ArmyBuilderMenu/ArmyBuilder" method="_on_army_builder_confirm_pressed"]
+[connection signal="item_selected" from="ArmyBuilderMenu/ArmyBuilder/OptionButton" to="ArmyBuilderMenu/ArmyBuilder" method="_player_one_set_army_pressed"]
+[connection signal="item_selected" from="ArmyBuilderMenu/ArmyBuilder/OptionButton2" to="ArmyBuilderMenu/ArmyBuilder" method="_player_two_set_army_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilder/PlayerConfigConfirm" to="ArmyBuilderMenu/ArmyBuilder" method="_on_army_builder_confirm_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilder/EditArmy" to="ArmyBuilderMenu/ArmyBuilder" method="_on_edit_army_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilder/EditArmy2" to="ArmyBuilderMenu/ArmyBuilder" method="_on_edit_army_2_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilder/ArmyMenu/PlayerConfigConfirm" to="ArmyBuilderMenu/ArmyBuilder" method="_on_army_menu_confirm_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/ArmyBuilder/ArmyMenu2/PlayerConfigConfirm" to="ArmyBuilderMenu/ArmyBuilder" method="_on_army_menu_confirm_pressed"]
+[connection signal="pressed" from="ArmyBuilderMenu/PlayerConfig/PlayerConfigConfirm" to="ArmyBuilderMenu" method="_on_player_config_confirm_pressed"]
+[connection signal="text_submitted" from="ArmyBuilderMenu/PlayerConfig/LineEdit" to="ArmyBuilderMenu/ArmyBuilder" method="_on_line_edit_text_submitted"]
+[connection signal="text_submitted" from="ArmyBuilderMenu/PlayerConfig/LineEdit2" to="ArmyBuilderMenu/ArmyBuilder" method="_on_line_edit_2_text_submitted"]
+[connection signal="color_changed" from="ArmyBuilderMenu/PlayerConfig/ColorPicker" to="ArmyBuilderMenu" method="_on_color_picker_color_changed"]

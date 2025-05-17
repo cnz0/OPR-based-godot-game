@@ -1,0 +1,408 @@
+Units:
+{"id": "VuB6STi_R", "cost": 55, "name": "Champion of Change", "size": 1, "sync": {"unitId": "MvLZSIo", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "iGYRvcjX", "name": "Power Hammer", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "lLqYocFF", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Power Hammer (A1, Blast(3), Warp)", "originalCount": 1}, {"id": "wW04Z", "name": "Staff", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 1, "weaponId": "SksUbdwg", "specialRules": [{"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Staff (A1, Warp)", "originalCount": 1}], "upgrades": ["C3UuL"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "bqb55tx", "cost": 75, "name": "Swiftclaw", "size": 1, "type": 1, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "T08VkBuVmNZ_", "name": "Hero", "label": "Hero"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}, {"id": "hI90IUl0QGVw", "name": "Unbidden Infiltrator", "label": "Unbidden Infiltrator"}, {"id": "rqBYj1yANC3J", "name": "Unique", "label": "Unique"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "Rg7QQ", "name": "Dimension Slicer", "type": "ArmyBookWeapon", "count": 1, "range": 6, "attacks": 1, "weaponId": "-WzD1FRl", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Dimension Slicer (6\", A1, Blast(3), Warp)", "originalCount": 1}, {"id": "pJj_R", "name": "Needle", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "UAUE6ZV1", "specialRules": [{"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Needle (A2, Warp)", "originalCount": 1}], "upgrades": [], "isNarrative": false, "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "B8c_RolkD", "cost": 15, "name": "Change Fury", "size": 1, "sync": {"unitId": "moiRRNr", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "-QJdqJEKjIpE", "name": "Flying", "label": "Flying"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "I-qLpgSH", "name": "Armblade", "type": "ArmyBookWeapon", "count": 1, "range": 0, "attacks": 2, "weaponId": "MR1EwuYl", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 1, "label": "AP(1)"}, {"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Armblade (A2, AP(1), Warp)", "originalCount": 1}], "upgrades": ["W1opR"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "xWCvQaatP", "cost": 20, "name": "Change Warrior", "size": 1, "sync": {"unitId": "UMiqTdF", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "0vEE5mmA", "name": "Fireball", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "0vEE5mmA", "specialRules": [], "label": "Fireball (12\", A1)", "count": 1, "originalCount": 1}, {"id": "F51nvlCJ", "name": "Hand Weapon", "type": "ArmyBookWeapon", "attacks": 1, "weaponId": "F51nvlCJ", "specialRules": [{"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Hand Weapon (A1, Warp)", "count": 1, "originalCount": 1}], "upgrades": ["D1", "E1"], "hasCustomRule": false, "disabledSections": [], "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "9KR5iWpJW", "cost": 25, "name": "Changelings", "size": 3, "sync": {"unitId": "9LtzG6R", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "25", "square": "25"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}], "valid": true, "defense": 6, "quality": 6, "weapons": [{"id": "qe5cEKkX", "name": "Fireballs", "type": "ArmyBookWeapon", "range": 12, "attacks": 2, "weaponId": "qe5cEKkX", "specialRules": [], "label": "Fireballs (12\", A2)", "count": 3, "originalCount": 3}, {"id": "uGjh57Rm", "name": "Claws", "type": "ArmyBookWeapon", "attacks": 2, "weaponId": "uGjh57Rm", "specialRules": [{"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Claws (A2, Warp)", "count": 3, "originalCount": 3}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "kuIK2ZSoS", "cost": 35, "name": "Lesser Change Horror", "size": 1, "sync": {"unitId": "zt7BQGh", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "jaDijWTHmVNU", "name": "Split", "rating": "Changelings [3]", "label": "Split(Changelings [3])"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}], "valid": true, "defense": 5, "quality": 5, "weapons": [{"id": "0vEE5mmA", "name": "Fireball", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "0vEE5mmA", "specialRules": [], "label": "Fireball (12\", A1)", "count": 1, "originalCount": 1}, {"id": "o7JFPhim", "name": "Claws", "type": "ArmyBookWeapon", "attacks": 1, "weaponId": "o7JFPhim", "specialRules": [{"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Claws (A1, Warp)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "ftaVST10W", "cost": 45, "name": "Change Horror", "size": 1, "sync": {"unitId": "BzjTlSG", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "32", "square": "30"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "jaDijWTHmVNU", "name": "Split", "rating": "Lesser Change Horror [1]", "label": "Split(Lesser Change Horror [1])"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "0vEE5mmA", "name": "Fireball", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "0vEE5mmA", "specialRules": [], "label": "Fireball (12\", A1)", "count": 1, "originalCount": 1}, {"id": "o7JFPhim", "name": "Claws", "type": "ArmyBookWeapon", "attacks": 1, "weaponId": "o7JFPhim", "specialRules": [{"type": "ArmyBookRule", "id": "_YH18zN4KKCY", "name": "Warp", "label": "Warp"}], "label": "Claws (A1, Warp)", "count": 1, "originalCount": 1}], "upgrades": ["D1"], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "Rx8ve8HPv", "cost": 70, "name": "Scorcher", "size": 1, "sync": {"unitId": "P8kTKn6", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "50", "square": "40"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "i8eLTUAa", "name": "Spout Flame", "type": "ArmyBookWeapon", "range": 12, "attacks": 1, "weaponId": "i8eLTUAa", "specialRules": [{"type": "ArmyBookRule", "id": "w_vX0mi58KKt", "name": "Blast", "rating": 3, "label": "Blast(3)"}, {"type": "ArmyBookRule", "id": "Zx4mWN0SbmK8", "name": "Reliable", "label": "Reliable"}], "label": "Spout Flame (12\", A1, Blast(3), Reliable)", "count": 1, "originalCount": 1}, {"id": "cmRqvCR2", "name": "Claws", "type": "ArmyBookWeapon", "range": 0, "attacks": 3, "weaponId": "Uyy6ptKX", "specialRules": [], "label": "Claws (A3)", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+{"id": "i-gy2keZP", "cost": 70, "name": "Screecher", "size": 1, "sync": {"unitId": "s2ElE6T", "syncAutomatic": true, "parentArmyBookId": "yxVDySKYQYRhdEgA"}, "bases": {"round": "40", "square": "40"}, "items": [], "rules": [{"id": "QMJRgueQoFoF", "name": "Daemon", "label": "Daemon"}, {"id": "KdgwlPb8LuD2", "name": "Fast", "label": "Fast"}, {"id": "9jyvRoBODD-O", "name": "Stealth", "label": "Stealth"}, {"id": "JSKVyurtWIyW", "name": "Strider", "label": "Strider"}, {"id": "a0YtInGiUDd6", "name": "Tough", "rating": 3, "label": "Tough(3)"}], "valid": true, "defense": 4, "quality": 4, "weapons": [{"id": "ONddZRHy", "name": "Sharp Beak", "type": "ArmyBookWeapon", "attacks": 3, "weaponId": "ONddZRHy", "specialRules": [{"type": "ArmyBookRule", "id": "17crjK7P6_w6", "name": "AP", "rating": 2, "label": "AP(2)"}], "label": "Sharp Beak (A3, AP(2))", "count": 1, "originalCount": 1}], "upgrades": [], "hasCustomRule": false, "hasBalanceInvalid": false, "disabledUpgradeSections": []}
+
+Upgrades:
+[
+  {
+    "costs": {
+      "unitId": "B8c_RolkD",
+      "cost": 5
+    },
+    "gains": {
+      "id": "MR1EwuYl",
+      "name": "Rending Claws",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "attacks": 2,
+      "weaponId": "I-qLpgSH",
+      "specialRules": [
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp"
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "Rending Claws (A2, Rending, Warp)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 5
+    },
+    "gains": {
+      "id": "8HWdOwMYcI0p",
+      "name": "Sergeant",
+      "type": "ArmyBookRule",
+      "label": "Sergeant",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 5
+    },
+    "gains": {
+      "id": "qrG_DXJez5Dg",
+      "name": "Musician",
+      "type": "ArmyBookRule",
+      "label": "Musician",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 10
+    },
+    "gains": {
+      "id": "ywXKQKPOLjTF",
+      "name": "Banner",
+      "type": "ArmyBookRule",
+      "label": "Banner",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 5
+    },
+    "gains": {
+      "id": "SgsZEvq3",
+      "name": "Halberd",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "SgsZEvq3",
+      "specialRules": [
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Halberd (A1, Rending, Warp)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 5
+    },
+    "gains": {
+      "id": "nYnoDp3L",
+      "name": "Great Weapon",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "nYnoDp3L",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 2
+        },
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Great Weapon (A1, AP(2), Warp)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 5
+    },
+    "gains": {
+      "id": "O5yDRuwK",
+      "name": "Spear",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "O5yDRuwK",
+      "specialRules": [
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "c45Fw0D2oGOk",
+          "name": "Counter",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Spear (A1, Counter, Warp)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 5
+    },
+    "gains": {
+      "id": "kLGd0JBm",
+      "name": "Dual Hand Weapons",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "kLGd0JBm",
+      "specialRules": [
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Dual Hand Weapons (A2, Warp)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 10
+    },
+    "gains": {
+      "name": "Wizard",
+      "type": "ArmyBookItem",
+      "label": "Wizard (Caster(1))",
+      "content": [
+        {
+          "id": "47CAqf7ySlfc",
+          "name": "Caster",
+          "type": "ArmyBookRule",
+          "modify": true,
+          "rating": 1
+        }
+      ],
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "xWCvQaatP",
+      "cost": 20
+    },
+    "gains": {
+      "id": "g864ullIqOGK",
+      "name": "Banner of Change",
+      "type": "ArmyBookRule",
+      "label": "Banner of Change",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 5
+    },
+    "gains": {
+      "name": "Power Spear",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 0,
+      "attacks": 1,
+      "weaponId": "p0FUPij7",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 1
+        },
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "_mrPya5SXSqW",
+          "name": "Deadly",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "label": "Power Spear (A1, AP(1), Deadly(3), Warp)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 15
+    },
+    "gains": {
+      "id": null,
+      "name": "Power Staff",
+      "type": "ArmyBookWeapon",
+      "count": "02",
+      "attacks": 2,
+      "weaponId": "iGYRvcjX",
+      "specialRules": [
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp"
+        },
+        {
+          "id": "cavWDboL4ubs",
+          "name": "Rending"
+        }
+      ],
+      "label": "2x Power Staff (A2, Rending, Warp)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 15
+    },
+    "gains": {
+      "id": null,
+      "name": "Magic Bolt",
+      "type": "ArmyBookWeapon",
+      "count": 1,
+      "range": 12,
+      "attacks": 4,
+      "weaponId": "PAe0VqXu",
+      "specialRules": [
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Magic Bolt (12\", A4, Warp)"
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 5
+    },
+    "gains": {
+      "id": "F4JcfAW7",
+      "name": "Power Gauntlet",
+      "type": "ArmyBookWeapon",
+      "range": 0,
+      "attacks": 2,
+      "weaponId": "ie-eOkju",
+      "specialRules": [
+        {
+          "id": "17crjK7P6_w6",
+          "name": "AP",
+          "type": "ArmyBookRule",
+          "rating": 3
+        },
+        {
+          "id": "_YH18zN4KKCY",
+          "name": "Warp",
+          "type": "ArmyBookRule"
+        }
+      ],
+      "label": "Power Gauntlet (A2, AP(3), Warp)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 5
+    },
+    "gains": {
+      "id": "zNXAwvbVzDlA",
+      "name": "Blessing of Change",
+      "type": "ArmyBookRule",
+      "label": "Blessing of Change",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 10
+    },
+    "gains": {
+      "id": "CG6kQHbmsk0s",
+      "name": "Symbol of Change",
+      "type": "ArmyBookRule",
+      "modify": true,
+      "rating": 1,
+      "label": "Symbol of Change(1)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 20
+    },
+    "gains": {
+      "id": "47CAqf7ySlfc",
+      "name": "Caster",
+      "type": "ArmyBookRule",
+      "modify": true,
+      "rating": 2,
+      "label": "Caster(2)",
+      "count": 1
+    }
+  },
+  {
+    "costs": {
+      "unitId": "VuB6STi_R",
+      "cost": 60
+    },
+    "gains": {
+      "name": "Disc of Change",
+      "type": "ArmyBookItem",
+      "bases": {
+        "round": "32",
+        "square": "25"
+      },
+      "label": "Disc of Change (Fast, Strider, Tough(3))",
+      "content": [
+        {
+          "id": "KdgwlPb8LuD2",
+          "name": "Fast",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "JSKVyurtWIyW",
+          "name": "Strider",
+          "type": "ArmyBookRule"
+        },
+        {
+          "id": "a0YtInGiUDd6",
+          "name": "Tough",
+          "type": "ArmyBookRule",
+          "rating": 3
+        }
+      ],
+      "count": 1
+    }
+  }
+]
